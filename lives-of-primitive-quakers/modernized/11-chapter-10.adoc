@@ -283,72 +283,51 @@ upon the whole, was their portion in this dark and cloudy day,
 by offering to the reader a few stanzas of Catherine's humble, but very sweet poetry,
 looking at it in spirit.
 
+[verse]
+____
 HYMN TO GOD.^
 footnote:[Only a selection is given from this poem.]
 
 All praise to him that has not put,
-
 Nor cast me out of mind;
-
 Nor yet his mercy from me shut,
-
 As I could ever find.
 
 Oh none is like unto the Lamb,
-
 "`Whose beauty shineth bright!
-
 O! glorify his holy name,
-
 His majesty and might.
 
 My soul, praise thou the only God,
-
- A fountain pure and clear;
-
+A fountain pure and clear;
 Whose crystal streams spread all abroad,
-
 And cleanseth far and near.
 
 My sweet, and dear beloved one,
-
 Whose voice is more to me
-
 Than all the glory of the earth,
-
 Or treasures I can see.
 
 My soul, praise thou the Lord I say,
-
 Praise him with joy and peace;
-
 My spirit and mind, both night and day,
-
 Praise him and never cease.
 
 Oh, praises, praises, to our God!
-
 Sing praises to our King;
-
 O teach the people, all abroad,
-
 His praises for to sing.
 
 A Zion song of glory bright,
-
 That does shine out so clear;
-
 O manifest it in the sight
-
 Of nations far and near.
 
 That God may have his glory due,
-
 His honour and his fame;
-
 And all his saints may sing anew
-
 The praises of his name.
+____
 
 It is worthy of observation, and certainly tending to spiritual progress,
 to consider how much the soul thrives in the exercise of praise.
@@ -377,7 +356,7 @@ and brother,`"--telling him that she has unity and fellowship with him day and n
 "`Oh my dear husband and children,`" she says,
 "`how often have I poured out my soul to the everlasting Father for you,
 with rivers of tears night and day,
-that you might be kept pure and single in the sight of our God . . .
+that you might be kept pure and single in the sight of our God. . .
 
 "`My dear hearts, you do not lack teaching; you are in a land of blessedness,
 which flows with milk and honey! among the faithful
@@ -397,8 +376,7 @@ The Lord has exercised my patience, and tried me to the uttermost; to his praise
 and my eternal comfort, who has not failed us in anything,
 but has given abundantly in his own due time.
 We are witnesses that he can provide a table in the wilderness,
-both spiritual and temporal.
-. . .
+both spiritual and temporal. . .
 
 "`In our deepest affliction, when I looked for every breath to be the last,
 I could not wish I had not come over the sea;
@@ -562,4 +540,3 @@ all that I desire of you is, that when you pray to God,
 you will remember me in your prayers.'
 
 "`And so they parted.`"
-

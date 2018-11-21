@@ -290,7 +290,10 @@ is accounted for; whilst upon any other ground it is unaccountable.
 
 And as, according to the poet's statement respecting ambition:
 
+[verse]
+____
 "`It oft o'er leaps itself, and falls on t'other side,`"
+____
 
 So, it commonly happens with sinister designs for individual security.
 This excessive determination, on the part of the inhabitants of Boston,
@@ -373,7 +376,7 @@ departed from the jurisdiction for that time; but Robinson and Stevenson,
 though they quitted Boston, did not feel themselves at liberty to quit the jurisdiction,
 though their lives were at stake;
 they therefore went to Salem and other places thereabouts, to visit their friends,
-and stablish them in the faith.
+and establish them in the faith.
 
 It was not long before they were again in custody, and Mary Dyar returning also,
 they were all three imprisoned once more at Boston.
@@ -775,6 +778,9 @@ being an inhabitant of New England, had been banished on pain of death,
 if ever he returned thither.
 To him the king granted a deputation, with full power to carry the following mandamus:--
 
+[.embedded-content-document.letter]
+--
+[.signed-section-context-open]
 "`Charles R.
 
 "`Trusty and well beloved, we greet you well.
@@ -793,19 +799,19 @@ to the end that such course may be taken with them here,
 as shall be agreeable to our laws, and their demerits.
 And for so doing, these our letters shall be your sufficient warrant and discharge.
 
-"`Given at our court at Whitehall, the 9th day of September, 1661,
-in the thirteenth year of our reign.
+[.signed-section-closing]
+"`Given at our court at Whitehall, the 9th day of September, 1661, in the thirteenth year of our reign.
 
+[.signed-section-closing]
 "`By his Majesty's command,
 
+[.signed-section-signature]
 "`William Morris.
 
-"`Addressed: To our trusty and well-beloved John Endicot, Esq.,
-and to all and every other the governor, or governors of our plantations of New England,
-and of all the colonies thereunto belonging, that now are, or hereafter shall be;
-and to all and every the ministers and officers
-of our said plantations and colonies whatsoever,
-within the continent of New England.`"
+[.postscript]
+"`Addressed: To our trusty and well-beloved John Endicot, Esq., and to all and every other the governor, or governors of our plantations of New England, and of all the colonies thereunto belonging, that now are, or hereafter shall be; and to all and every the ministers and officers of our said plantations and colonies whatsoever, within the continent of New England.`"
+
+--
 
 This mandamus being obtained, no time was lost in dispatching it; and in six weeks' time,
 Samuel Shattock, the bearer of it, entered the Bay of Boston, on a Sunday morning.
@@ -841,4 +847,3 @@ he returned to the two friends, and said, "`We shall obey his majesty's command.
 The master of the ship afterwards giving liberty to the passengers to come ashore,
 they met together with their friends of the town, and offered up praises to God,
 for this wonderful deliverance.
-

@@ -26,7 +26,7 @@ ever afterwards engaged in military concerns.
 
 Being now, by the situation of public affairs,
 incapable of rendering any further service to his prince, he retired to Gordonstoun;
-between which place, and Edinburgh, he chiefly passed his time, until the year 1C63;
+between which place, and Edinburgh, he chiefly passed his time, until the year 1663;
 at which period he experienced the trial of losing his excellent wife.^
 footnote:[He had married Catherine Gordon, eldest daughter of Sir Robert Gordon,
 of Gordonstoun, second son to the Earl of Sutherland.]
@@ -215,7 +215,7 @@ I felt a secret power among them, which touched my heart; and as I gave way unto
 I found the evil weakening in me, and the good raised up;
 and so I became thus knit and united unto them,
 hungering more and more after the increase of this power and life,
-whereby I might feel myself perfectly redeemed!`" -- (Barclay's Works, vol.
+whereby I might feel myself perfectly redeemed!`" -- ([.book-title]#Barclay's Works#, vol.
 ii. p. 353--356.)
 
 It is not easily believed,
@@ -253,8 +253,7 @@ resist the insinuations that were used to proselyte me to that way,
 I became quickly defiled with the pollutions thereof; until it pleased God,
 in his rich love and mercy, to deliver me out of those snares,
 and to give me a clear understanding of the evil of that way.`"^
-footnote:["`Treatise on Universal Love.`"--Barclay's Works, vol.
-iii. p. 186.]
+footnote:[Treatise on Universal Love, from [.book-title]#Barclay's Works#, vol. iii. p. 186.]
 
 About the year 1670, Robert Barclay married Christian Molleson,
 a very estimable young woman, united in profession with friends.
@@ -275,7 +274,7 @@ that I can say in the fear of the Lord,
 that I have received a charge from him to love you,
 and for that I know his love is much towards you, and his blessing and goodness is,
 and shall be unto you, so long as you abide in a true sense of it.`"^
-footnote:[The Friends in Scotland, by John Barclay, p. 295.]
+footnote:[[.book-title]#The Friends in Scotland#, by John Barclay, p. 295.]
 
 It was the lot of Robert Barclay, in common with many others amongst friends,
 to feel himself commanded by the Divine will,
@@ -345,6 +344,10 @@ that it was by no concessions inimical to truth on their side, we have ample tes
 in a noble appeal made in their joint names, to the magistrates who had committed them,
 and which begins thus:--
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 "`Friends,
 
 "`Our case being as it was, and as some of us fully represented it to you,
@@ -362,7 +365,12 @@ your iniquities in this and the like cases,
 and you cannot vanquish us.
 You imagine a vain thing, and you will herein weary yourselves with very vanity.`"
 
+--
+
 After some close expostulations, it thus concludes:--
+
+[.embedded-content-document.letter]
+--
 
 "`Well! we ask nothing of you, but that you come to a sense of your past way,
 that you may not fall into the like for the future.
@@ -375,9 +383,12 @@ We are, as regards our testimony, and for its sake, well contented, well pleased
 well satisfied to be here; our bonds are not grievous unto us,
 glory to the Lord forever! who has not been, and who is not far from us.
 
+[.signed-section-signature]
 "`John Swintoune, William Napiek, John Milne, Robert Barclay, James Nuccoll,
 William Low.`"^
-footnote:[Barclay's Friends in Scotland, p. 315-- 316.]
+footnote:[[.book-title]#Barclay's Friends in Scotland#, p. 315-- 316.]
+
+--
 
 While the younger Barclay was thus valiantly contending for the truth,
 and also suffering in its behalf, David Barclay, the father,
@@ -414,8 +425,13 @@ by the tenor of which epistle,
 she seems to have received information of somewhat an exaggerated kind,
 respecting his case.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 "`Herford, December 19th, 1676.
 
+[.salutation]
 "`Dear Brother,
 
 "`I have written to you some months ago, by Robert Barclay, who passed this way,
@@ -434,7 +450,7 @@ etc.--'I should admire,`" she says,
 in a former letter to R. B.--"`I should admire God's providence,
 if my brother could be a means of releasing your father and forty more in Scotland:
 having promised to do his best,
-I know he will perform it.`"-- Barclay's Friends in Scotland, p. 354.]
+I know he will perform it.`" From [.book-title]#Barclay's Friends in Scotland#, p. 354.]
 to the council of Scotland,
 he has been clapped up in prison with the rest of his friends,
 and they threaten to hang him (at least those they call preachers
@@ -450,7 +466,10 @@ than in a sensible compassion of the innocent sufferers.
 You will act herein according to your own discretion:
 and I beseech you still consider me as yours,
 
+[.signed-section-signature]
 "`Elizabeth.`"
+
+--
 
 It does not appear that the above application was speedily, if at all, influential,
 in the liberation of Robert Barclay; who, with his friends,
@@ -487,6 +506,9 @@ After reminding them of the "`blessed visitation`" and
 tender mercy of the Lord towards them as a people,
 he says,
 
+[.embedded-content-document.letter]
+--
+
 "`Indeed the Lord is with us--what can we desire more?
 preparing us for himself, preserving us in the life of his blessed truth,
 building us up more and more,
@@ -516,9 +538,13 @@ whose breathings are to God for you, and his praises unto him,
 through the sense of his being with you, and daily showing mercy to you,
 upholding and preserving you in the midst of your sore trials and afflictions.
 
+[.signed-section-signature]
 "`Isaac Penington.`"
 
+[.signed-section-context-close]
 "`London, 5th of 5th month, 1676.`"
+
+--
 
 One of the pretences made use of by the authorities of Scotland,
 for their cruel proceedings against the Quakers,
@@ -539,7 +565,7 @@ the magistrates assembled a large concourse of the citizens, and with much parad
 went forth to meet them, expressing all the usual tokens of profound respect;
 so that on that occasion,
 "`the whole town appeared in a manner taken up with the grandeur of the ceremony.`"^
-footnote:[ J. Barclay's Friends in Scotland, p. 385.]
+footnote:[[.book-title]#J. Barclay's Friends in Scotland#, p. 385.]
 
 On reading which,
 the mind involuntarily recurs to the homely proverb of "`one may steal a horse,
@@ -741,4 +767,3 @@ he now wished on that day, to bear witness in their favour.
 But this was not allotted to him;
 for he died in about two hours after the above interview; signifying before he departed,
 that he was favoured to feel some relief in his spirit.
-

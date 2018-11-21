@@ -29,7 +29,7 @@ which you are derived;--illustrious in that true nobility which comes from God.
 
 "`What is it,`" says one of those truly illustrious ones,^
 footnote:[Isaac Penington.--See his Epistle to Friends, vol.
-ii p. 645, of his Works, in two vols.]--"`What is it to have a distinct name,
+ii p. 645, of his [.book-title]#Works#, in two vols.]--"`What is it to have a distinct name,
 or distinct meetings from the world, unless the power of the Lord be felt in your hearts,
 and his presence in your assemblies?`"
 What is it indeed, but setting up a broader mark than common,
@@ -97,7 +97,7 @@ No, the Lord knows,
 that the love of these things is daily rooted out of our hearts more and more,
 and we are a people whom the world cannot charge with covetousness or love of the world,
 with which all sorts of professors hitherto have been too justly chargeable.`"^
-footnote:[Isaac Penington, vol i. p. 302 of his Works.]
+footnote:[Isaac Penington, vol i. p. 302 of his [.book-title]#Works#.]
 
 Oh, friends! if in the least measure,
 a mightier hand than that frail one which traces these lines,
@@ -330,7 +330,7 @@ how beautiful to the enlightened eye is your memorial!
 You were God's building; and of that edifice which the Almighty rears,
 how truly does one amongst you thus express the character.^
 footnote:[Isaac Penington.
-See his Letters, published by J. Barclay, p. 84.]
+See his [.book-title]#Letters#, published by J. Barclay, p. 84.]
 
 "`Into your holy building, O God! into your heavenly building,
 into the spiritual Jerusalem, which you rear and build up in the Spirit,
@@ -367,4 +367,5 @@ and that only which you have received, and that not of man,
 nor by any of the natural workings of your own minds;
 "`but by the revelation of Jesus Christ!`"
 
+[.the-end]
 Finis

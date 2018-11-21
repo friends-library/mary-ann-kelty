@@ -1,6 +1,6 @@
 == Chapter XX
 
-AFTER his marriage, George Fox continued in the same line of ministerial service,
+After his marriage, George Fox continued in the same line of ministerial service,
 which seldom allowed him to continue long in one place.
 But the winter following this event, he was confined by illness at Enfield,
 during which time he describes his spiritual sufferings
@@ -158,6 +158,10 @@ and which he thus curiously expresses in a letter to his wife:
 he having sent her with one of her daughters home into the north as
 soon as he was taken prisoner and committed to Worcester jail.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 "`Dear Heart,`"
 
 "`You seemed to be a little grieved when I was speaking of prisons, and when I was taken.
@@ -166,7 +170,10 @@ I had a sight of my being taken prisoner; and when I was at B. Doiley's in Oxfor
 as I sat at supper, I saw I was taken: and I saw I had a suffering to undergo.
 But the Lord's power is over all, blessed be his holy name forever!
 
+[.signed-section-signature]
 "`G. F.`"
+
+--
 
 His companion in this imprisonment was Thomas Lower,
 who had married one of Margaret Fell's daughters, whose brother, Dr. Lower,
@@ -253,6 +260,10 @@ Although he was not amongst the friends who
 visited Princess Elizabeth upon this occasion,
 he addressed a long epistle to her, which he thus commences:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 "`Princess Elizabeth,
 
 "`I have heard of your tenderness towards the Lord and his holy truth,
@@ -281,10 +292,17 @@ and will be a teacher unto you at all times.`"
 He added, in a postscript, "`The bearer hereof, is a daughter-in-law of mine,
 that comes with Gertrude Dirick Nieson, and George Keith's wife, to give you a visit.
 
+[.signed-section-signature]
 "`G. F.`"
+
+--
 
 To this plain and unceremonious epistle, the princess returned the following reply:--
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 "`Dear Friend,
 
 "`I cannot but have a tender love to those that love the Lord Jesus Christ,
@@ -293,12 +311,16 @@ Therefore your letter, and your friends' visit, have been both very welcome to m
 I shall follow their, and your counsel, as far as God will afford me light and unction,
 remaining still
 
+[.signed-section-closing]
 "`Your loving friend,
 
+[.signed-section-signature]
 "`Elizabeth.`"
 
-"`Hertford, 30th Aug.
-1677.`"
+[.signed-section-context-close]
+"`Hertford, 30th Aug. 1677.`"
+
+--
 
 On his return home,
 the labours of George Fox were more directed towards
@@ -350,4 +372,3 @@ and that he said to one of the noblemen who stood by,
 "`What shall we do for these people; the prisons are filled with them?`"
 But the person to whom he addressed himself, in order to draw him from the subject,
 and to divert him from his concern therein, led him into other discourse.
-

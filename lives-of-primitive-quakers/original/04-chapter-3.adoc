@@ -29,6 +29,10 @@ to address a letter to the judges and court in his behalf; and which,
 as manifesting the view that was taken of his case by a judicious and educated man,
 it may be desirable to give at length.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 "`To the judges of assize and gaol-delivery for the northern parts, sitting at Carlisle.
 
 "`You are raised up to do righteousness and justice,
@@ -71,7 +75,10 @@ and hath neither professed nor avowed them.^
 footnote:[G. Fox's Journal, folio edit.
 p. 101, 102.]
 
+[.signed-section-signature]
 "`Anthony Pearson.`"
+
+--
 
 But the friendly efforts of this gentleman were fruitless.
 It was resolved not to bring George Fox to trial; and he was left,
@@ -691,6 +698,10 @@ The result of these or other intercessions,
 occasioned an order to be sent down for their discharge;
 of which he gives the following copy:--
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 "`Thursday, the 16th of October, at the Council at Whitehall.
 
 "`Ordered by his Highness the Lord Protector and the council,
@@ -702,7 +713,10 @@ or any of them (if any) may with most conveniency be taken off and discharged;
 and likewise to take order, that upon their being set at liberty, as aforesaid,
 they be forthwith sent to their respective homes.
 
+[.signed-section-signature]
 "`W. Jessop, clerk of the council.`"
+
+--
 
 Being thus aided,
 George Whitehead and his friends were not long before they received their freedom;
@@ -737,4 +751,3 @@ as he says had esteemed him either lost or dead;
 and finding the great hardships and persecutions he had undergone,
 they received him with great joy and kindness, and with less prejudice than heretofore,
 against the principles he had adopted, and the society to which he had united himself.
-
