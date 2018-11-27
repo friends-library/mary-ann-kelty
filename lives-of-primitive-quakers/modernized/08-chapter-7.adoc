@@ -812,7 +812,11 @@ And for so doing, these our letters shall be your sufficient warrant and dischar
 "`William Morris.
 
 [.postscript]
-"`Addressed: To our trusty and well-beloved John Endicot, Esq., and to all and every other the governor, or governors of our plantations of New England, and of all the colonies thereunto belonging, that now are, or hereafter shall be; and to all and every the ministers and officers of our said plantations and colonies whatsoever, within the continent of New England.`"
+"`Addressed: To our trusty and well-beloved John Endicot, Esq.,
+and to all and every other the governor, or governors of our plantations of New England,
+and of all the colonies thereunto belonging, that now are, or hereafter shall be;
+and to all and every the ministers and officers of our said plantations and colonies whatsoever,
+within the continent of New England.`"
 
 --
 
