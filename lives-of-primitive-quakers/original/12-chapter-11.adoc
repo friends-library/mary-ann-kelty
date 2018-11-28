@@ -18,7 +18,13 @@ to exhort him to exercise mercy and forgiveness towards his enemies,
 and to warn him to restrain the profaneness and
 looseness that was got up in the nation on his return.`"
 
-"`To The King.`"
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+To The King.
+
+[.salutation]
 "`King Charles,
 
 "`Thou entered not into this nation by sword, nor by victory of war,
@@ -48,7 +54,10 @@ in which we have peace, and that we may not be brought into ungodliness by them.
 Hear, and consider, and do good in thy time, whilst thou hast power.
 Be merciful and forgive; that is the way to overcome, and obtain the kingdom of Christ.
 
+[.signed-section-signature]
 "`G. F.`"
+
+--
 
 At the time of writing this epistle, George was a prisoner in Lancaster Castle;
 whither he had been roughly taken,
@@ -64,6 +73,9 @@ with the addition of his holding fanatic
 opinions,) he answered it by a sort of manifesto,
 which is greatly too prolix for insertion as it stands;
 but from which a few extracts may be acceptable.
+
+[.embedded-content-document.letter]
+--
 
 "`I am a prisoner at Lancaster, committed by Justice Porter.
 A copy of the mittimus I cannot get; but such expressions I am told are in it,
@@ -94,11 +106,16 @@ but all are of a mad, foolish, furious spirit, that wrestle with flesh and blood
 and with carnal weapons, in their furiousness, foolishness and rage.
 This is not the Spirit of God, but of error, that persecutes in a mad, blind zeal,
 like Nebuchadnezzar and Saul.`"
+
 He subscribes this paper,
 
+[.signed-section-closing]
 "`From an innocent sufferer in bonds, and close prisoner in Lancaster Castle; called
 
+[.signed-section-signature]
 "`George Fox.`"
+
+--
 
 In the meantime many exertions were making on the part of his friends,
 towards his emancipation; Margaret Fell going herself to London,
@@ -221,38 +238,42 @@ many friends being in prison,
 because they could not burden their consciences
 by taking the oath of allegiance and supremacy.
 
-"`King.
-But why cannot you swear?
+[.discourse-part]
+"`__King__--But why cannot you swear?
 for an oath is a common thing amongst men to any engagement?
 
-"`R. H. Yes: it is manifest, and we have seen by experience,
+[.discourse-part]
+"`__R. H.__--Yes: it is manifest, and we have seen by experience,
 that it is so common amongst men to swear, and engage either for, or against things,
 that there is no regard taken to it, nor fear of an oath.
 That therefore, which we speak of, in the truth of our hearts,
 is more than what they can swear.
 
-"`King.
-But can you promise before the Lord?
+[.discourse-part]
+"`__King__--But can you promise before the Lord?
 which is the substance of an oath.
 
-"`R. H. Yes; what we do affirm, we can promise before the Lord,
+[.discourse-part]
+"`__R. H.__--Yes; what we do affirm, we can promise before the Lord,
 and take him to our witness in it.
 But our so promising hath not been accepted;
 but the ceremony of an oath they have stood for; without which,
 all other things were accounted of no effect.
 
-"`King.
-But how may we know from your words, that you will perform?
+[.discourse-part]
+"`__King__--But how may we know from your words, that you will perform?
 
-"`R. H. By proving us: for they that swear, are not known to be faithful,
+[.discourse-part]
+"`__R. H.__--By proving us: for they that swear, are not known to be faithful,
 but by proving them; and so we, by those that have tried us,
 are found to be truer in our promises, than others by their oaths;
 and to those that do yet prove us, we shall appear the same.
 
-"`King.
-Pray what is your principle?
+[.discourse-part]
+"`__King__--Pray what is your principle?
 
-"`R. H. Our principle is this;
+[.discourse-part]
+"`__R. H.__--Our principle is this;
 that Jesus Christ is 'the true light that enlighteneth every one that
 cometh into the world,' that all men through him might believe;
 and that they are to obey and follow this light, as they have received it;
@@ -263,14 +284,16 @@ Some further discourse ensued upon the subject of the sacrament,
 in which the lords in waiting also joined; after which, the king asked him,
 "`How know you that you are inspired by the Lord?`"
 
-"`R. H. According as we read in the scriptures,
+[.discourse-part]
+"`__R. H.__--According as we read in the scriptures,
 that 'the inspiration of the Almighty giveth understanding,' so, by his inspiration,
 is an understanding given us of the things of God.'
 
 One of the lords in waiting then inquired,`" How
 do you know that you are led by the true spirit?`
 
-"`R. H. This we know, because the Spirit of truth reproves the world of sin; and by it,
+[.discourse-part]
+"`__R. H.__--This we know, because the Spirit of truth reproves the world of sin; and by it,
 we are reproved of sin, and are also led from sin unto righteousness,
 and obedience of truth; by which effects, we know it is the true Spirit;
 for the spirit of the wicked one doth not lead into such things.`"
@@ -340,4 +363,3 @@ notwithstanding all the depredations they had
 suffered at the hands of these their enemies,
 friends could praise God, "`that they had a kettle, a platter, a horse,
 and a plough still.`"
-

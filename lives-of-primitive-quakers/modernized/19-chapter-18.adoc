@@ -10,12 +10,16 @@ by making applications to the Duke of York in their behalf,
 and that with a nobility of spirit,
 which exhibits an admirable specimen of the integrity of his character.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Robert Barclay To The Princess Elizabeth.
 
-"`Theobald's, near London,
+[.signed-section-context-open]
+"`Theobald's, near London, 12th of the 7th month, 1677.
 
-12th of the 7th month, 1677.
-
+[.salutation]
 "`Dear Friend,
 
 "`By your letter of the last of the month past,
@@ -59,7 +63,7 @@ like that of a physician frequenting his patients for
 the increase or confirmation of their health;
 but must profess, that my converse with them is,
 to receive health and refreshment from them.`"--See Appendix
-to Barclay's Second Edition of I. Penington's Letters,
+to Barclay's Second Edition of [.book-title]#I. Penington's Letters,#
 p. 311.]
 
 "`What you write of the counsellor of the elector, and the other preachers,
@@ -94,10 +98,13 @@ If you see fit to salute that counsellor of the elector in my name, you may do i
 
 "`I shall add no more at present, but that I am your real and unfeigned friend,
 
+[.signed-section-signature]
 "`Robert Barclay.`"
 
+--
+
 "`The memoirs of the family,`" says John Barclay,^
-footnote:[See "`Jaffray and the Friends in Scotland,`" by J. Barclay, p. 415.]
+footnote:[See [.book-title]#Jaffray and the Friends in Scotland,# by J. Barclay, p. 415.]
 "`state in general terms,
 that the release of both the father and son +++[+++David and Robert Barclay]
 took place by an order from court, with a reprimand for meddling with either of them;
@@ -262,7 +269,7 @@ that she observed my grandfather that morning, before they were attacked,
 more pensive than usual; and that he told her it was his opinion,
 some unusual trial or exercise was to befal them that day; but when the affair happened,
 he enjoyed a remarkable serenity.`"^
-footnote:[Barclay's Friends in Scotland, p. 443.]
+footnote:[Barclay's [.book-title]#Friends in Scotland#, p. 443.]
 
 It was in the year 1690,
 that it pleased the Divine will to summons Robert Barclay from this world.
@@ -293,11 +300,17 @@ and others of the neighbourhood.
 The following letter from the pen of George Fox, addressed on this mournful occasion,
 to the widow, is too characteristic to be omitted.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 George Fox to Christian Barclay
 
+[.signed-section-context-open]
 "`28th of 10th month, 1690.^
 footnote:[George himself lived, not much above two weeks after the date of this epistle.]
 
+[.salutation]
 "`DEAR FRIEND!
 
 "`With my love to you and your children, and all the rest of friends, in the holy seed,
@@ -347,7 +360,10 @@ And so, the Lord God Almighty, settle and establish you and yours,
 upon the heavenly rock and foundation; that, as your children grow in years,
 they may grow in grace, and so in favour with the Lord.--Amen
 
+[.signed-section-signature]
 "`George Fox.`"
+
+--
 
 The character of Robert Barclay is best given in the words of a contemporary and friend;
 both of whom were combined in William Penn, who thus describes him:--
@@ -431,6 +447,10 @@ The conclusion of this address,
 more especially commends the noble sincerity of the writer's heart; while,
 to the credit of the king, it must be remembered,
 that he took no offence at the Christian freedom it displays:
+
+[.embedded-content-document.letter]
+--
+
 "`God has done great things for you,`" says Barclay.
 "`He has sufficiently shown you, that it is by him princes rule,
 and that he can pull down, and set up, at his pleasure.
@@ -470,9 +490,13 @@ that you may effectually turn to him, so as to improve your place and station,
 for his name.
 So wishes, so prays,
 
+[.signed-section-closing]
 "`Your faithful friend and subject,
 
+[.signed-section-signature]
 "`Robert Barclay.`"
+
+--
 
 This work was first published in Latin,
 when the author had only attained his twenty-eighth year,
@@ -495,4 +519,3 @@ But, a brief sketch of some of the leading subjects which it embraces,
 and with great force, and calmness of spirit, enlarges upon, may not be unacceptable;
 and which I, the rather feel inclined to offer to the reader's notice,
 in the hope of its inducing him to turn to, and consider the work itself.
-

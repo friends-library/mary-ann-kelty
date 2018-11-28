@@ -1,6 +1,6 @@
 == Chapter XIX
 
-The "`Apology for the True Christian Divinity,`" is an
+The [.book-title]#Apology for the True Christian Divinity#,`" is an
 enlarged discussion of fifteen propositions,
 which the author, in his address to the reader,
 describes as briefly comprehending the chief principles and doctrines of truth.
@@ -61,7 +61,7 @@ therefore it is not the primary or adequate rule of faith.
 
 "`Next, the very nature of the gospel itself declares,
 that the Scriptures cannot be the only and chief rule of Christians;
-else there should be no difference between the law and the gospel,which differ in this:
+else there should be no difference between the law and the gospel, which differ in this:
 in that the law being outwardly written, brings under condemnation,
 but has not life in it to save: whereas,
 the gospel as it declares and makes manifest the evil, so it, being an inward,
@@ -74,8 +74,7 @@ Hence, the apostle concludes, (Rom. 6:14) "`sin shall not have dominion over you
 for you are not under the law, but under grace`'--this grace then,
 which is an inward and not an outward law, is to be the rule of Christians.
 Hence,
-the apostle commends the elders of the church to it--(Acts 20{^
-}32)--to that spiritual law which makes free from sin,
+the apostle commends the elders of the church to it--(Acts 20:32)--to that spiritual law which makes free from sin,
 (Rom. 8:2) which was not outward--as Rom. 10:8--manifests; where,
 distinguishing it from the law, he says, "`it is nigh you; in your heart,
 and in your mouth;' and this is the word of truth which we preach.`"
@@ -243,12 +242,12 @@ Secondly.
 "`That, for this end, God has communicated and given unto every man,
 a measure of the light of his own Son;–a measure of grace;--or, a measure of the Spirit;
 which the scripture expresses by several names,
-as sometimes of '`The seed of the kingdom,`' (Matt. 13:18-
-19) "`The light that makes all things manifest,`' (Eph. 5:
-13) '`The word of God,`" (Rom. 10:17) or,
-'`Manifestation of the Spirit given to profit withal,' (1 Cor. 12:
-7) "`A talent,`' (Matt. 25:15) "`A little leaven,`" (Matt.
-xiii.33;) '`The gospel preached in every creature,`" (Col. 1:23)
+as sometimes of '`The seed of the kingdom,`' (Matt. 13:18-19)
+'`The light that makes all things manifest,`' (Eph. 5:13)
+'`The word of God,`' (Rom. 10:17) or,
+'`Manifestation of the Spirit given to profit withal,`' (1 Cor. 12:7)
+'`A talent,`' (Matt. 25:15) '`A little leaven,`' (Matt. 13:33)
+'`The gospel preached in every creature,`' (Col. 1:23)
 
 Thirdly.
 "`That God in, and by this light and seed, invites, calls, exhorts,
@@ -555,8 +554,8 @@ that this "`true light enlightens EVERY man that comes into the world.`"
 
 For what end this light is given, is expressed verse 7,
 where John is said to come for a witness to the light,
-"`that all men through it might believe; that is, through the light, di auton,
-which,`" he says, "`does very well agree with phogos, as being the nearest antecedent,
+"`that all men through it might believe; that is, through the light, __di auton__,
+which,`" he says, "`does very well agree with __phogos__, as being the nearest antecedent,
 though most translators (to make it suit with
 their own doctrine) have made it relate to John,
 as if all men were to believe through John`"--which was not possible,
@@ -707,10 +706,9 @@ as such; whom I take to be so great a man, that I profess freely,
 I had rather engage against a hundred Bellarmines, Hardings, and Stapletons,
 than with one Barclay`"--(Of Divine Light.--Tract II. p. 32.)^
 footnote:[Sir James Mackintosh also observes,
-with respect to Barclay and his "`Apology:`" "`Of those first who systematized,
+with respect to Barclay and his [.book-title]#Apology#: "`Of those first who systematized,
 and perhaps insensibly softened the Quakers' creed, was Barclay, a gentleman of Scotland,
 in his Apology for the Quakers; a masterpiece of ingenious reasoning,
 and a model of argumentative composition, which extorted praise from Bayle,
-one of the most acute and least fanatical of men.`"-- Mackintosh's Revolution in England,
+one of the most acute and least fanatical of men.`"-- Mackintosh's [.book-title]#Revolution in England#,
 p. 169.]
-

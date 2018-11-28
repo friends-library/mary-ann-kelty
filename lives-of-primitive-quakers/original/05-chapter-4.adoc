@@ -96,7 +96,7 @@ But, besides that I may well hope to be forgiven for
 omitting to enter into so painful a detail,^
 footnote:[A minute account of the transactions alluded to,
 and of the severe trials of the primitive Quakers in general,
-may be found in Besse's Sufferings of Friends; the bare relation of which,
+may be found in [.book-title]#Besse's Sufferings of Friends#; the bare relation of which,
 occupies two closely printed folio volumes;
 and in which are records of cruelty on the one hand,
 and of Christian patience on the other, which, unless too well authenticated,
@@ -110,8 +110,13 @@ were the pleas made use of to trouble these unoffending people,
 if I present him with the following warrant, which, on one occasion,
 was issued against them by the magistrates.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 "`City of Bristol.
 
+[.salutation]
 "`To the constables of the peace, of the ward of +++_______+++, and every of them.
 
 "`Forasmuch, as information hath been given unto us upon oath,
@@ -132,10 +137,14 @@ or any of them, and all other suspected persons,
 and to apprehend or bring them before us, or some of us,
 to be dealt with according to law.
 
+[.signed-section-context-open]
 "`Hereof fail not.
 Given the 25th of January, 1654.
 
+[.signed-section-signature]
 "`Signed, John Gunning, Mayor, and eight others have added their signatures.`"
+
+--
 
 Whilst at Bristol, on the occasion of the large meeting above mentioned,
 Edward Burrough was called to London,
@@ -251,7 +260,7 @@ and multitudes of the inhabitants of London wondering and gazing after an image 
 "`Edward Burrough caused to be printed;
 whereby he raised to himself a more lasting monument than by the
 erecting of a statue to his quondam friend Oliver Cromwell.`"^
-footnote:[Sewel's Histoiy, vol.
+footnote:[[.book-title]#Sewel's History#, vol.
 ii. p. 51. Lindfield edit.]
 
 Nor was it only with Oliver as the ruling authority,
@@ -358,7 +367,7 @@ that we love righteousness and hate iniquity, and that we now suffer for thy hol
 and for thy honour and justice, and for thy truth and holiness!
 O Lord, thou knowest we are resolved to perish, rather than to lose one grain hereof!
 Amen, amen!`"^
-footnote:[Sewel's History, (Lindfield edition,) vol.ii.pp. 420, 425.]
+footnote:[[.book-title]#Sewel's History#, (Lindfield edition,) vol. ii. pp. 420, 425.]
 Much more is subjoined;
 but the foregoing extracts may suffice to show the
 simple integrity with which he pleaded the case;
@@ -535,4 +544,3 @@ Nay. And now thou art freed from the temptations of him who hath the power of de
 and art freed from thy outward enemies,
 who hated thee because of the life that dwelt in thee,
 and remainest at the right hand of God, where there is joy and pleasure for evermore!`"
-

@@ -227,7 +227,11 @@ from several of us.`"
 He then inserts a letter of Princess Elizabeth, in answer to two from him;
 and which is as follows:
 
+[.embedded-content-document.letter]
+--
+[.signed-section-context-open]
 "`Herford, May 2, 1677.
+
 "`This, friend, will tell you, that both your letters were very acceptable,
 together with your wishes for my obtaining those virtues,
 which may make me a worthy follower of our great King and Saviour, Jesus Christ.
@@ -237,11 +241,15 @@ neither did I expect any fruit of my letter to the Duchess of L. as I have
 expressed at the same time unto B. F. But since R. B. desired I should write it,
 I could not refuse him; nor omit to do anything that was judged conducing to his liberty,
 though it should expose me to the derision of the world.
-But this a mere moral man can reach at; the true inward graces are yet wanting in,
+But this a mere moral man can reach at; the true inward graces are yet lacking in,
 
+[.signed-section-closing]
 "`Your affectionate friend,
 
+[.signed-section-signature]
 "`Elizabeth.`"
+
+--
 
 On coming to the city where she resided,
 the friends made their arrival known to the princess,
@@ -440,4 +448,3 @@ and not the voice of any stranger whatever.
 
 "`So we left them in the love and peace of God,
 praying that they might be kept from the evil of this world.`"
-

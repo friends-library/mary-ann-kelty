@@ -124,8 +124,7 @@ on the part of government, accompanied every fresh plot.
 
 Amongst those who were at this time in prison, Margaret Fell was one;
 of whose examination at Lancaster court sessions, there is an account preserved,^
-footnote:[In a "`Brief Collection of Remarkable Passages,
-etc relating to Margaret Fell,`" p. 276.]
+footnote:[In a [.book-title]#"`Brief Collection of Remarkable Passages, etc relating to Margaret Fell,`"# p. 276.]
 which, taken in conjunction with that of George Fox,
 respecting his trial at the same place, and time, and on the same occasion,
 affords a curious specimen of the calm, and somewhat amusing inflexibility,
@@ -184,12 +183,14 @@ but for keeping of unlawful meetings: you think that if you do not fight, and qu
 or break the peace, that you break no law:
 but there is a law against unlawful meetings.`"
 
-M+++.+++ F. "`What law have I broken for worshipping God in my own house?`"
+[.discourse-part]
+__M+++.+++ F.__--"`What law have I broken for worshipping God in my own house?`"
 
-Judge.
-"`The common law.`"
+[.discourse-part]
+__Judge__--"`The common law.`"
 
-M+++.+++ F. "`I thought you had proceeded by a statute.`"
+[.discourse-part]
+__M+++.+++ F.__--"`I thought you had proceeded by a statute.`"
 Here the judge probably floundering a little,
 one of the sheriffs whispered him of a statute, 35th Elizabeth!`"
 
@@ -200,10 +201,11 @@ upon the account of her adhering to the dictates of her conscience,
 he must do as he would.
 She then desired to speak to the jury.
 
-Judge.
-"`The jury is to hear nothing but me tender you the oath; and you refuse, or take it.`"
+[.discourse-part]
+__Judge__--"`The jury is to hear nothing but me tender you the oath; and you refuse, or take it.`"
 
-M+++.+++ F. "`You will let me have the liberty that other prisoners have;`" which having said,
+[.discourse-part]
+__M+++.+++ F.__--"`You will let me have the liberty that other prisoners have;`" which having said,
 she turned to the jury, and once more related the cause of her imprisonment,
 and her reasons for not swearing.
 "`I am here,`" she said, "`this day, upon the account of my conscience,
@@ -220,16 +222,17 @@ But Margaret pursuing her point, still continued speaking,
 regardless of his repeated queries, "`Will you take the oath or no?`"
 till, in much wrath, he commanded that the book should again be tendered her.
 
-Judge.
-"`Will you take the oath of allegiance, yes, or no?`"
+[.discourse-part]
+__Judge__--"`Will you take the oath of allegiance, yes, or no?`"
 
-M+++.+++ F. "`I have said already, I acknowledge allegiance and obedience to the king,
+[.discourse-part]
+__M+++.+++ F.__--"`I have said already, I acknowledge allegiance and obedience to the king,
 and his just and lawful commands;
 and I do also own allegiance and obedience unto Christ Jesus, who is the King of kings,
 who has commanded me not to swear at all.`"
 
-Judge.
-"`That is no answer.
+[.discourse-part]
+__Judge__--"`That is no answer.
 Will you take the oath, or not take it?`"
 A question which only brought the same reply, that she owed allegiance to Christ,
 who forbade her swearing.
@@ -496,4 +499,3 @@ and the bad usage I had received in prison;
 and also that I was informed that no man could deliver me but he;`" which statement,
 in connection with the representations of some of his friends,
 at length succeeded in procuring an order for his release.
-

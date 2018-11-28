@@ -128,7 +128,7 @@ and the jailer being at the door, "`I gave him something,`" he says,
 and he let me pass out without interruption.
 But soon after, Isaac Penington coming to visit them, he stopped him,
 and caused him to be made a prisoner.^
-footnote:[G. Fox's Journal, p. 419.]
+footnote:[[.book-title]#G. Fox's Journal#, p. 419.]
 
 One of the most unrelenting foes of this excellent man, was the Earl of Bridgewater,
 who upon some account or another,
@@ -137,8 +137,13 @@ more than once, was the cause of his imprisonment.
 It was during one of these occasions, that he addressed a letter to him,
 from which a few extracts are here made.
 
-"`To The Earl of Bridgewater.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+To The Earl of Bridgewater.
+
+[.salutation]
 "`Friend,
 
 "`It is the desire of my heart to walk with God, in the true fear of his name,
@@ -169,6 +174,8 @@ These things very nearly concern you.
 Oh, wait upon God for his true light, that you may not be deceived about them;
 because your loss thereby will be so great and irreparable.`"
 
+--
+
 But however painful to the nature of the "`outward man`" these sufferings might be,
 the "`hidden man of the heart`" was thereby perfected, in no ordinary degree,
 in the case of Isaac Penington.
@@ -176,15 +183,15 @@ Most of his inestimable letters, as well as the above,
 were written within the walls of a prison; and of the preciousness of these testimonies,
 many, then unborn, have tasted with profit and delight.
 
-Yes, good and faithful servant!--well-instructed
-scribe!--bringing forth out of your treasures,
+Yes, good and faithful servant! --well-instructed
+scribe!-- bringing forth out of your treasures,
 things new and old--you have fed many!
 Be your just memory blessed! and let a heart that owes you much, thus,
 in most true and tender love, record its gratitude.
 
 Of his deportment in the tribulations that befel him,
 there are many pleasing testimonies; but I select one only from the pen of Robert Jones,^
-footnote:[Prefixed to the Works of Penington.]
+footnote:[Prefixed to the [.book-title]#Works of Penington#.]
 his friend, and often, fellow-prisoner.
 
 "`What shall I say?`"
@@ -211,6 +218,10 @@ whose faithfulness rendered them worthy of it.
 The following letter from him to George Fox,
 exemplifies this amiable disposition very pleasingly:--
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 "`Dear G. F.
 
 "`I feel the tender mercy of the Lord, and some portion of that brokenness, fear,
@@ -230,14 +241,19 @@ and may walk in perfect humility and tenderness of spirit before him, all my day
 Be helpful to me in tender love, that I may feel settlement and stability in the truth;
 and perfect separation from, and dominion in the Lord, over all that is contrary thereto.
 
+[.signed-section-signature]
 "`I. P.
 
-"`Aylesbury Jail, "`15th Fifth month, 1667.
+[.signed-section-context-close]
+"`Aylesbury Jail, 15th Fifth month, 1667.`"
 
+[.postscript]
 "`I entreat your prayers for my family, that the name of the Lord may be exalted,
 and his truth flourish therein.
 Dear G. F., indeed my soul longs for the pure, full,
 and undisturbed reign of the Life in me.`"
+
+--
 
 Being well fitted and prepared by sanctified suffering, he was ready for death; and,
 as William Penn describes him, under that exigency, "`had nothing else to do but to die,
@@ -373,7 +389,7 @@ when at any time I looked on the man, I was hardly able to forbear disdaining th
 but on the other hand,
 when the eye of my spirit beheld the power and glory of the Lord in them,
 I could hardly forbear over-esteeming, and exalting them.`"^
-footnote:[Penington's Works, vol.
+footnote:[[.book-title]#Penington's Works,# vol.
 i. p. 632.]
 
 But is not this the way of the Lord,--the invariable way?--we would ask.
@@ -600,5 +616,5 @@ After a few more words, she concludes by saying,
 "`this testimony to dear Isaac Penington,
 is from the greatest loser of all that had a share in his life,
 
+[.signed-section-signature]
 "`Mary Penington.`"
-

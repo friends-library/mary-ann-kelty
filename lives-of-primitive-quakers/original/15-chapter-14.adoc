@@ -153,17 +153,21 @@ And to show that there remained a sincerity in the man,
 after his mind came to be settled, he wrote a letter to some friends in London,
 wherein he hath these words following:--
 
-"`'I dare not much stir up or down any way, for people's looking at what was done;
-lest the Lord should be offended, etc.
+[.embedded-content-document.letter]
+--
 
-"`'I have been much tempted and exercised; yet, through mercy,
+"`'I dare not much stir up or down any way, for people's looking at what was done;
+lest the Lord should be offended, etc. I have been much tempted and exercised; yet, through mercy,
 have found help in the needful time.
 Whatsoever slips or failings friends saw in me, in the time I was with them,
 I would have none take notice of; for I was under great exercises,
 and often ran too fast, which the Lord in his due time, gave me a sight of.
 In the love of my Father, farewell!
 
+[.signed-section-signature]
 "`'T. I. '`"
+
+--
 
 Nor was it only to this person,
 that a foreshadowing was vouchsafed of this fearful calamity: George Fox, in his Journal,
@@ -220,4 +224,3 @@ where taking leave of each other in the Lord, we parted;
 betaking ourselves each to our several services;
 Margaret returning homewards to the north,
 and I passing on in the work of the Lord as before.`"
-

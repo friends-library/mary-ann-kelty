@@ -58,6 +58,10 @@ and the other was of old people's going into the earth`" under
 the pressure of which exercise he wrote an epistle,
 which he addressed:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 "`To all that profess the truth of God.
 
 "`My desires,`" he says, "`are, that you walk humbly in it:
@@ -74,6 +78,8 @@ and 'loading yourselves with thick clay.'
 and that which leadeth into a vain mind, and the fashions of the world,
 and into the earth;--though you have often had the rain fall upon your fields,
 you will but bring forth thistles, briars, and thorns, which are for the fire,`" etc.
+
+--
 
 His last work of this kind was an epistle of
 consolation and counsel to friends in Ireland,
@@ -102,7 +108,7 @@ with a manifest decline of strength, he retired at once to his bed,
 where he lay in much contentment and peace, and very sensible to the last.
 
 "`As he lived,`" says William Penn,^
-footnote:[In his preface to G. Fox's Journal, pp.
+footnote:[In his preface to [.book-title]#G. Fox's Journal#, pp.
 30 and 31.]
 "`so he died; feeling the same eternal power that had raised and preserved him,
 in his last moments.`"
@@ -379,9 +385,7 @@ and desired that they would let us have discourse with their priests, preachers,
 and teachers, and if they could prove us erroneous, then let them manifest it;
 but if our principles and doctrines be found according to the doctrine of Christ,
 and the apostles and saints in the primitive times, then let us have our liberty.^
-footnote:[From an old work, entitled "`A brief Collection of remarkable Passages,
-etc. relating to Margaret Fell,`" (p. 4,) and
-from which the present account of her is taken.]
+footnote:[From an old work, entitled [.book-title]#A brief Collection of remarkable Passages, etc. relating to Margaret Fell#, (p. 4,) and from which the present account of her is taken.]
 
 "`But,`" as the reader will not be surprized to hear,
 "`we could never get a meeting with any sort of them.`"
@@ -520,4 +524,3 @@ painful world-- it is all nothing to me,--for my Maker is my husband.`"
 
 A little before her departure, she called her daughter Rachel to her, saying,
 "`Take me in thy arms`"--after which, she said, "`I am in peace!`"
-

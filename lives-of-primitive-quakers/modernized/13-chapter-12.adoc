@@ -166,13 +166,17 @@ to ratify and confirm truth between them.`"
 Thirdly: in what case was an oath to be used?
 He specifies four occasions in which it was chiefly required.
 
+[.numbered]
 I+++.+++ In case of a promise or vow to God.
 
+[.numbered]
 II. In case of promise to man.
 
+[.numbered]
 III.
 In case of pronouncing or declaring the truth of a thing, etc.
 
+[.numbered]
 IV. In case of controversy between parties, where it could not be determined,
 but by taking the confession of one party for truth.
 
@@ -182,13 +186,17 @@ comprise the substance of the rest.
 He then speaks of four states or conditions of the soul, since the creation,
 preparatory to his applying the matter to the case of friends.
 
+[.numbered]
 1+++.+++ A state of integrity, wherein man could not lie nor deceive.
 
+[.numbered]
 2+++.+++ A state of deep captivity to evil, etc.
 
+[.numbered]
 3+++.+++ A state of shadowy redemption from evil, etc.,
 wherein were figures of heavenly things--but not the very things themselves.
 
+[.numbered]
 4+++.+++ A state of true redemption, which state, he thanks God,
 is (after a long night of apostasy) again brought forth.
 
@@ -258,6 +266,10 @@ with most others of the Society, was often made the subject of suffering.
 I allude to the question about the payment of tithes;
 upon which he thus expresses himself in a letter addressed to one James Eeles;
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 "`Friend,
 
 "`God is my witness, to whom I must give an account of all my actions,
@@ -276,7 +288,12 @@ what God's power has disannulled,--indeed I do not see;
 nor can I be subject to any human law or authority in this thing,
 without sinning against God, and incurring his wrath upon my soul.
 
+--
+
 He then observes, that Christ sent forth his ministers without tithes.
+
+[.embedded-content-document.letter]
+--
 
 "`Now tithes,`" he continues, "`were set up in the dark times of Roman Catholicism,
 and not by the gospel light; and they who know the gospel light,
@@ -291,9 +308,10 @@ both which ministry and its maintenance, is to be denied and witnessed against,
 by those whom he calls forth to testify to his truth in these things.`"^
 footnote:[Penington's Letters, p. 157.]
 
+--
+
 Such being the views of Isaac Penington, and of the members of the Society in general,
 upon these questions, it appears a necessary consequence,
 that they should resolutely maintain the ground they had taken,
 and willingly devote themselves to persecution, even had it been to death,
 rather than violate such truly pure and exalted principles.
-

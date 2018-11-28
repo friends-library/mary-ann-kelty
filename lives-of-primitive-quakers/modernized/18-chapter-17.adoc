@@ -209,7 +209,7 @@ their eye should be to him, and not to man;
 that they might come into more silence of themselves,
 and a growth in that heavenly sense.
 That this was the work of the true ministry: not to keep people to themselves,
-and be ever teaching them; but to turn them to God, the newcovenant teacher,
+and be ever teaching them; but to turn them to God, the new covenant teacher,
 and to Christ, the great gospel minister.
 Thus did John, and thought it no dishonour that they left him to go to Christ.
 "`Behold the Lamb of God!`" said he, "`that takes away the sin of the world!`"
@@ -380,7 +380,8 @@ and returned, with great sense, humility and love.
 presence, love, and life of God, with all heavenly blessings,
 might descend and rest with, and upon them, then, and forever!`"
 
-* * * *
+[.asterism]
+'''
 
 The sweet and precious Christian love which animated the heart,
 and flowed from the lips of William Penn towards Princess Elizabeth, and her friend,
@@ -389,8 +390,13 @@ to testify his deep interest (more especially in the
 countess) by addressing to the latter an epistle,
 from which, before we conclude this memorial, some extracts may be acceptable:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 "`For Anna Maria de Hornes, styled Countess of Hornes, at Herwerden in Germany.
 
+[.salutation]
 "`My Dear Friend,
 
 "`Oh that you may ever dwell in the sweet and tender sense of
@@ -420,7 +426,7 @@ prevail upon the civility of your nature; for they will oppress the innocent lif
 and bring grievous weights and burdens upon the soul.
 . . Oh beware of this compliance!
 Let me put you in mind of that sensible resolution, so frequently,
-and so passionately repeated by you: '`Il faut queje rompe!--il faut que je rompe.`'
+and so passionately repeated by you: '`Il faut queje rompe!--il faut que je rompe.`' +++[+++I must be broken. I must be broken]
 
 "`Now be assured,
 that till obedience be yielded to that present manifestation and conviction,
@@ -448,6 +454,8 @@ in the firmament of God's eternal kingdom.
 So let it be, Lord Jesus!
 Amen.`"
 
+--
+
 It may not be esteemed an irrelevant close to this interesting subject,
 if the following tribute from William Penn to
 the memory of his friend Princess Elizabeth,
@@ -456,7 +464,7 @@ the memory of his friend Princess Elizabeth,
 "`The late Princess Elizabeth of the Rhine, of right claims a memorial in this discourse;^
 footnote:[Serious dying, as well as living testimonies, chap.
 xxi. sect.
-34. "`No Cross no Crown.`"]
+34. [.book-title]#No Cross, No Crown.#]
 her virtue giving greater lustre to her name, than her quality,
 which yet was of the greatest in the German empire.
 She chose a single life, as freest of care,
@@ -524,4 +532,3 @@ footnote:[She died in 1680,
 and this passage was inserted in a second edition of "`No Cross, No Crown.`"]
 as much lamented as she had lived beloved of the people; to whose real worth I do,
 with religious gratitude for her kind reception, dedicate this memorial.`"
-
