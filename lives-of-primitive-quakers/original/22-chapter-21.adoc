@@ -108,8 +108,7 @@ with a manifest decline of strength, he retired at once to his bed,
 where he lay in much contentment and peace, and very sensible to the last.
 
 "`As he lived,`" says William Penn,^
-footnote:[In his preface to [.book-title]#G. Fox's Journal#, pp.
-30 and 31.]
+footnote:[In his preface to [.book-title]#G. Fox's Journal#, pp. 30 and 31.]
 "`so he died; feeling the same eternal power that had raised and preserved him,
 in his last moments.`"
 
@@ -123,7 +122,7 @@ twice over, saying, 'Mind poor friends in Ireland and America!'
 
 "`To some who came in, and inquired how he found himself, he answered,
 'Never heed! the Lord's power is over all weakness and death!
-The Seed reigns! +++[+++his wonted and favourite expression,]
+The Seed reigns! +++[+++his wonted and favourite expression,+++]+++
 blessed be the Lord!' He was at the great meeting near Lombard street,
 on the first day of the week, and it was the third following, about ten at night,
 when he left us; being at the house of H. Gouldney, in the same court.

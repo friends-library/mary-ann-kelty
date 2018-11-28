@@ -710,5 +710,5 @@ with respect to Barclay and his [.book-title]#Apology#: "`Of those first who sys
 and perhaps insensibly softened the Quakers' creed, was Barclay, a gentleman of Scotland,
 in his Apology for the Quakers; a masterpiece of ingenious reasoning,
 and a model of argumentative composition, which extorted praise from Bayle,
-one of the most acute and least fanatical of men.`"-- Mackintosh's [.book-title]#Revolution in England#,
-p. 169.]
+one of the most acute and least fanatical of men.`"
+--Mackintosh's [.book-title]#Revolution in England#, p. 169.]
