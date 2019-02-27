@@ -384,7 +384,9 @@ and desired that they would let us have discourse with their priests, preachers,
 and teachers, and if they could prove us erroneous, then let them manifest it;
 but if our principles and doctrines be found according to the doctrine of Christ,
 and the apostles and saints in the primitive times, then let us have our liberty.^
-footnote:[From an old work, entitled [.book-title]#A brief Collection of remarkable Passages, etc. relating to Margaret Fell#, (p. 4,) and from which the present account of her is taken.]
+footnote:[From an old work, entitled
+[.book-title]#A brief Collection of remarkable Passages, etc. relating to Margaret Fell#,
+(p. 4,) and from which the present account of her is taken.]
 
 "`But,`" as the reader will not be surprized to hear,
 "`we could never get a meeting with any sort of them.`"
