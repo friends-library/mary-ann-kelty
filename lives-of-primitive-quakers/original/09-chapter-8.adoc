@@ -10,9 +10,8 @@ but passing by these, I select some passages from the work of Isaac Penington, e
 "`An Examination of the Grounds or Causes, which are said to induce the Court of Boston,
 in New England, to make that Order, or Law of Banishment, upon pain of Death,
 against the Quakers,`" etc.^
-footnote:[See vol.
-I. of his Works, p. 260. Edition of 1761; printed for Kendal, Colchester,
-in two quarto vols.]
+footnote:[See vol. I. of his Works, p. 260. Edition of 1761;
+printed for Kendal, Colchester, in two quarto vols.]
 and which, being chiefly written in reply to an apologetic work of the minister Norton,
 will sufficiently inform the reader,
 what sort of excuses were found for the atrocities above related.
@@ -349,8 +348,8 @@ but to lay it down for a general rule for Christians to observe,
 that when they are persecuted they should flee,--this is
 expressly contrary to the scriptures afore-mentioned;
 which show, that Christians are not generally to flee;
-but to stand in the service and work to which they are called.`"
-... "`And whereas you plead that reason requires it,
+but to stand in the service and work to which they are called.`"&hellip;
+"`And whereas you plead that reason requires it,
 what kind of reason is it which bids avoid the cross of Christ, and flee for safety?
 And what kind of spirit is that,
 which preacheth this doctrine of laying it down as a general rule for Christians to flee,
@@ -366,8 +365,8 @@ in your transplanting into New England.
 Safety,`" he tells them, "`is in standing in God`'s counsel; in bearing the cross;
 in suffering for the testimony of his truth; but if at any time,
 there be a fleeing of the cross (whether inward or outward) without God`'s direction,
-the evil spirit is thereby let in, his part strengthened, and the life weakened.
-. . . And, if ye fled your proper cross in your removal from hence into New England,
+the evil spirit is thereby let in, his part strengthened, and the life weakened&hellip;
+And, if ye fled your proper cross in your removal from hence into New England,
 though ye meet with many others there,
 yet hereby you lost your proper advantage of
 serving and honouring God in your generation;
