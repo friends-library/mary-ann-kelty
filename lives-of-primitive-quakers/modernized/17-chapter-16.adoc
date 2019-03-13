@@ -229,6 +229,7 @@ and which is as follows:
 
 [.embedded-content-document.letter]
 --
+
 [.signed-section-context-open]
 "`Herford, May 2, 1677.
 
