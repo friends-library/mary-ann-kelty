@@ -33,7 +33,7 @@ it may be desirable to give at length.
 --
 
 [.salutation]
-"`To the judges of assize and gaol-delivery for the northern parts, sitting at Carlisle.
+"`To the judges of assize and jail-delivery for the northern parts, sitting at Carlisle.
 
 "`You are raised up to do righteousness and justice,
 and sent forth to punish him that doth evil, and to encourage him that doth well,
@@ -41,7 +41,7 @@ and to set the oppressed free.
 I am therefore moved to lay before you the condition of him who is called George Fox,
 whom the magistrates of this city have cast into prison,
 for words that he is accused to have spoken, which they call blasphemy.
-He was sent to the gaol till he should be delivered by due course of law;
+He was sent to the jail till he should be delivered by due course of law;
 and it was expected he should have been proceeded
 against in the common law course at this assizes.
 The informations against him were delivered into court,
@@ -83,8 +83,8 @@ But the friendly efforts of this gentleman were fruitless.
 It was resolved not to bring George Fox to trial; and he was left,
 at the close of the assizes, to the jurisdiction of the magistrates of the town:
 who testified what sort of favour he was likely to receive from them,
-by ordering him into a still worse place of imprisonment than the gaoler`'s house,
-where he had hitherto been confined, but from whence he was now removed into the gaol,
+by ordering him into a still worse place of imprisonment than the jailer`'s house,
+where he had hitherto been confined, but from whence he was now removed into the jail,
 amongst moss-troopers, thieves, and murderers;
 the painfulness of whose society was augmented by the
 accompaniment of every other sort of abomination,
@@ -165,7 +165,7 @@ where none of his friends were suffered to visit him.
 
 The sequel of the narrative is more than commonly melancholy,
 even amidst the many painful details of the sufferings of the primitive Friends;
-for the gaoler and his wife being both exceedingly
+for the jailer and his wife being both exceedingly
 bitter against persons of his persuasion,
 seemed to vie with one another which should torment him the most;
 the woman more particularly, by setting others to take away his food,
@@ -208,7 +208,7 @@ till he was restored from the effects of his accident, yet it was denied; nay,
 so immoveably were they set against him, that, according to Sewel,
 they would not permit him to walk out for the benefit of the air,
 even in the yard of the prison;
-and the gaoler once finding him walking between two high walls, in a narrow yard,
+and the jailer once finding him walking between two high walls, in a narrow yard,
 from whence, had he been inclined, he could not have escaped,
 was nevertheless so incensed against him, that he locked up the hole he inhabited,
 and shut him out in the yard all night, though it was in the coldest time of the winter.
@@ -392,7 +392,7 @@ In this city George Whitehead stayed some time, holding several meetings,
 and visiting his imprisoned friends, to their mutual strength and comfort:
 but it was not long before he himself shared the same fate;
 for on attempting to speak upon one occasion, at St. Peter`'s church,
-be was committed to the same gaol where several more of his friends were also lodged.
+be was committed to the same jail where several more of his friends were also lodged.
 
 In this place he underwent many hardships, of which he gives a curious statement.
 "`In the said prison at Norwich,`" he writes, "`we were but hardly treated by the keeper,
@@ -400,7 +400,7 @@ one Hunt, who demanded for one bed for three of us, four-pence a night of each:
 we thought it was hard measure to demand twelve-pence a night of prisoners,
 for one mean bed for three men to be crowded together in,
 and that in a cold room where another prisoner lodged in a bed to himself;
-so that not finding freedom to gratify the gaoler in his oppression and covetousness,
+so that not finding freedom to gratify the jailer in his oppression and covetousness,
 and afraid to bring any charge upon any of our friends,
 to procure us better accommodation,
 on these considerations we thought ourselves
@@ -415,7 +415,7 @@ and then so young as but about eighteen years old, that same winter,
 when thus imprisoned in 1654.`"
 
 In the month of March, 1655, he and James Lancaster, another Friend,
-were released from captivity; but Whitehead going to the gaol a short time after,
+were released from captivity; but Whitehead going to the jail a short time after,
 to visit a person, was apprehended; and on being taken before the mayor,
 was re-committed, and again imprisoned for three weeks.
 No record of oppression and grief can surpass, and few can equal,
@@ -515,7 +515,7 @@ The circumstances of suffering to which the
 foregoing statements of George Whitehead refer,
 were his being apprehended, and again sent to prison,
 on the ground of his being "`a disturber of the public peace.`"
-His place of confinement, in this instance, was the common gaol, at Bury St. Edmunds;
+His place of confinement, in this instance, was the common jail, at Bury St. Edmunds;
 whither he was committed, with five others, who were also of the society,
 about the beginning of August, 1655.
 
@@ -528,13 +528,13 @@ it would have been impossible for humanity to endure.
 
 "`After two of us,`" he says, "`were first sent to prison,
 we had a lodging in an upper room, for two or three weeks; and then,
-understanding that the gaoler would exact upon us for rent,
+understanding that the jailer would exact upon us for rent,
 and expecting our confinement might be of long continuance, we desired a free prison;
 whereupon we were turned into the common ward among felons; where,
 after continuance a few weeks, a friend, (Samuel Duncan,) in compassion to us,
-privately gave the gaoler some money to let us lodge above again, from the felons.
+privately gave the jailer some money to let us lodge above again, from the felons.
 But, when the time for that money was ended,
-the gaoler insisted upon his old exaction of four-pence a night from each of us;
+the jailer insisted upon his old exaction of four-pence a night from each of us;
 which we were neither free to yield to,
 nor to suffer any of our friends to be charged therewith,
 but again desired a free prison;
@@ -543,7 +543,7 @@ and thereupon we were again turned into the common ward.`"
 "`We now were settled in the common ward among felons, in a low dungeon-like place,
 under a market-house; our poor lodging being upon rye-straw, on a damp earthen floor;
 though we were therewith content, and the place sanctified to us.
-But not being willing to contribute to the gaoler`'s avarice or extortion,
+But not being willing to contribute to the jailer`'s avarice or extortion,
 nor free to buy any of his beer, (he keeping a tap-house,
 and divers of his prisoners often drunk,) his anger and rage arose,
 and grew very much against us, after we were so many as five sent to prison successively,
@@ -558,9 +558,9 @@ seeing that in many cases, as in the present one,
 their persecutors were those who made a claim to be called religious.
 
 "`The Lord stirred us up,`" says Whitehead,
-"`to cry aloud against the wickedness of the gaoler, his servants, and prisoners,
+"`to cry aloud against the wickedness of the jailer, his servants, and prisoners,
 for these gross evils and disorders,
-because the gaoler made a profession of religion and piety,
+because the jailer made a profession of religion and piety,
 (being a member of a Presbyterian church in Bury,)
 calling in the prisoners on first-days,
 towards evening, to instruct them; and because I told him of his hypocrisy therein,
@@ -580,7 +580,7 @@ the spirits of the sufferers were exalted by the sustaining power of God,
 and enabled to soar above that region in which the
 persecution of men or devils had power to operate.
 On one occasion, George Whitehead, with three more Friends, were put into a dungeon,
-four yards under ground, by this inhuman gaoler and his turnkey,
+four yards under ground, by this inhuman jailer and his turnkey,
 because they would not desist from crying against the wickedness that surrounded them.
 He describes the place by saying, "`it was very dark,
 and but a little compass at the bottom, and in the midst thereof an iron grate,
@@ -600,11 +600,11 @@ who were generally encouraged by him to molest these patient people,
 he relates a striking instance.
 After mentioning one of the culprits who was the most rude and abusive to them,
 ("`being,`" as he says,
-"`one of the gaoler`'s drunkards,`") and the circumstance of
+"`one of the jailer`'s drunkards,`") and the circumstance of
 his throwing a knife fiercely at one of them,
 and as it missed inflicting a wound, his declaring that he would kill some of them,
 he relates, "`the said most abusive prisoner,
-taking so much encouragement as he did from the example of the gaoler, turnkey,
+taking so much encouragement as he did from the example of the jailer, turnkey,
 and tapster, one night, being furiously drunk, he must needs kill some of us,
 after we were locked and bolted close in the common ward; whereupon,`" he continues,
 "`in faith in the name and power of the Lord, we stood over him,
@@ -684,7 +684,7 @@ now saw meet to grant a reviving interval to these sufferers, by making way,
 in the course of his providence, for their liberation from prison.
 
 "`When the barbarous treatment and hardships we
-endured in the said gaol,`" says Whitehead,
+endured in the said jail,`" says Whitehead,
 "`was much noised abroad,
 divers of our friends at London were compassionately concerned for our relief;
 and thereupon, Oliver Cromwell was several times applied unto,
