@@ -165,6 +165,9 @@ to ratify and confirm truth between them.`"
 Thirdly: in what case was an oath to be used?
 He specifies four occasions in which it was chiefly required.
 
+[.numbered-group]
+====
+
 [.numbered]
 I+++.+++ In case of a promise or vow to God.
 
@@ -172,18 +175,22 @@ I+++.+++ In case of a promise or vow to God.
 II. In case of promise to man.
 
 [.numbered]
-III.
-In case of pronouncing or declaring the truth of a thing, etc.
+III. In case of pronouncing or declaring the truth of a thing, etc.
 
 [.numbered]
 IV. In case of controversy between parties, where it could not be determined,
 but by taking the confession of one party for truth.
+
+====
 
 He goes into further divisions of the subject; but those above stated,
 comprise the substance of the rest.
 
 He then speaks of four states or conditions of the soul, since the creation,
 preparatory to his applying the matter to the case of friends.
+
+[.numbered-group]
+====
 
 [.numbered]
 1+++.+++ A state of integrity, wherein man could not lie nor deceive.
@@ -198,6 +205,8 @@ wherein were figures of heavenly things--but not the very things themselves.
 [.numbered]
 4+++.+++ A state of true redemption, which state, he thanks God,
 is (after a long night of apostasy) again brought forth.
+
+====
 
 And here it may be necessary to add for the information of those who are but
 little acquainted with the principles of the primitive friends,
