@@ -1,0 +1,9 @@
+.section-epigraph {
+  margin-bottom: 0.4in;
+}
+
+.section-epigraph,
+.section-epigraph * {
+  text-align: center !important;
+  hyphens: none !important;
+}
