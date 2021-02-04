@@ -55,7 +55,7 @@ For instance, sometimes you pretend
 _Mary:_ Oh, dear mamma! pray do not use that ugly word "`pretend.`"
 
 [.discourse-part]
-_Mamma:_ Is not the thing a great deal uglier than the word?
+_Mamma:_ Is not the _thing_ a great deal uglier than the _word?_
 
 [.discourse-part]
 _Mary:_ Oh, yes! but then I do not see its ugliness till you tell me of it.
@@ -123,7 +123,7 @@ to show the evil.
 
 [.discourse-part]
 _Mamma:_ But if you are not well acquainted with that good light, and its way of teaching,
-and above all things, if you are not very obedient, when it shows you what is wrong,
+and above all things, if you are not very _obedient,_ when it shows you what is wrong,
 you will never understand your own nature,
 and will be apt to fancy that all is well with you, when indeed it is very ill.
 It is because poor sinners are so ignorant of the power
