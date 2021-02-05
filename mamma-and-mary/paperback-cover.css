@@ -1,0 +1,20 @@
+#__id__ .main-title {
+  font-size: 0.76in;
+}
+
+#__id__ .main-title span {
+  font-size: 0.45in;
+}
+
+#__id__ .subtitle {
+  font-size: 0.4in;
+  margin-top: -0.4in;
+}
+
+#__id__ .initials {
+  opacity: 0.8;
+}
+
+#__id__ .blurb {
+  font-size: 2.75%;
+}
