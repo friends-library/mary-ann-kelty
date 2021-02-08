@@ -2,6 +2,10 @@
   font-size: 0.76in;
 }
 
+#__id__.Cover--scope-3-5 .main-title {
+  font-size: 43px; /* help Safari */
+}
+
 #__id__ .main-title span {
   font-size: 0.45in;
 }
