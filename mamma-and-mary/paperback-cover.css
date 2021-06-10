@@ -1,5 +1,9 @@
-#__id__ .main-title {
+#__id__.trim--s .main-title {
   font-size: 0.76in;
+}
+
+#__id__ .main-title {
+  font-size: 1in;
 }
 
 #__id__.Cover--scope-3-5 .main-title {
@@ -7,11 +11,19 @@
 }
 
 #__id__ .main-title span {
+  font-size: 0.6in;
+}
+
+#__id__.trim--s .main-title span {
   font-size: 0.45in;
 }
 
-#__id__ .subtitle {
+#__id__.trim--s .subtitle {
   font-size: 0.4in;
+}
+
+#__id__ .subtitle {
+  font-size: 0.485in;
   margin-top: -0.4in;
 }
 
