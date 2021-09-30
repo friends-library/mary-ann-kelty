@@ -137,8 +137,8 @@ _Mary:_ I think I do, mamma.
 You would have me give up any thing I was about to do,
 if I felt that I should be ashamed any body should see me doing it.
 
-Mama.
-Yes, that was my meaning; as for instance, if I were to come into the room,
+[.discourse-part]
+_Mama:_ Yes, that was my meaning; as for instance, if I were to come into the room,
 and find you opening my drawers, or looking into my papers,
 or taking any cakes or sweetmeats off the table, should you not feel ashamed?
 
