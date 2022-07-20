@@ -154,18 +154,22 @@ inquired Miss Robson.
 I am glad on two accounts, I am glad I did not spoil my silk by cutting it;
 and I am very glad to have learnt what a delightful thing patience is.`"
 
-Charlotte.--And so am I, I can feel now that there is a great pleasure in it.
+[.discourse-part]
+_Charlotte._--And so am I, I can feel now that there is a great pleasure in it.
 But, Miss Robson, is there no way of learning patience, except by bearing, or doing,
 disagreeable things?
 
-Miss Robson.--I shall answer your question by asking you one, Charlotte; and it is this.
+[.discourse-part]
+_Miss Robson._--I shall answer your question by asking you one, Charlotte; and it is this.
 What is patience?
 
-Charlotte.--(after a little pause.)--I think it is looking
+[.discourse-part]
+_Charlotte._--(after a little pause.)--I think it is looking
 contented and happy when you are ready to cry;
 and being still and quiet, when you feel a wish to break everything to pieces.
 
-Miss Robson.--I suppose you are giving me a description
+[.discourse-part]
+_Miss Robson._--I suppose you are giving me a description
 of what was passing in your own mind,
 while winding the silk.
 Well, it must surely be a delightful and a desirable thing,
@@ -180,32 +184,41 @@ instead of standing there so serene and smiling, with the silk neatly wound upon
 you had exhibited yourself with the silk cut into shreds,
 to Gertrude`'s loss and mortification, and yourself sobbing like a baby.
 
-Charlotte.--Oh yes,
+[.discourse-part]
+_Charlotte._--Oh yes,
 Miss Robson--I cannot bear to think of it.
 I shall always love disagreeable things, if they teach me anything so good as patience.
 But I don`'t see quite, just yet, why I cannot learn it in a less unpleasant manner.
 
-Miss Robson.--What do you think about that, Gertrude?
+[.discourse-part]
+_Miss Robson._--What do you think about that, Gertrude?
 
-Gertrude.--I don`'t think we can lack patience when things are pleasant and agreeable.
+[.discourse-part]
+_Gertrude._--I don`'t think we can lack patience when things are pleasant and agreeable.
 Suppose the silk had gone on as pleasantly, you know, Charlotte, as when you said, "`Oh,
 this is so nice!`"
 I don`'t see what occasion we should have had to be impatient about it.
+
+[.small-break]
+'''
 
 Charlotte was obliged to confess that this was forcible reasoning,
 and to admit that patience was only to be learned at a time
 when things were going contrary to our wishes;
 or, as she had expressed it, when they were disagreeable.
 
-Miss Robson.--I think, then, I have made out my case;
+[.discourse-part]
+_Miss Robson._--I think, then, I have made out my case;
 and proved that it is our interest to delight in things when they are disagreeable.
 
-Charlotte.--I certainly never felt the sort of pleasure I now feel,
+[.discourse-part]
+_Charlotte._--I certainly never felt the sort of pleasure I now feel,
 in having conquered my impatience about this skein of silk.
 But then, Miss Robson,
 that seems such a little thing either to be troubled or to rejoice about.
 
-Miss Robson.--As little as it is, you see, Charlotte,
+[.discourse-part]
+_Miss Robson._--As little as it is, you see, Charlotte,
 that it was almost too much for you to bear.
 You must not fall into the error which people so commonly do fall into,
 of talking about this or the other matter as a little thing.
@@ -228,30 +241,38 @@ and not as unto man.
 The thought that this or the other thing is a trifle,
 will never help you to bear it with the right patience.
 
-Gertrude.--Are there two sorts of patience, then, Miss Robson?
+[.discourse-part]
+_Gertrude._--Are there two sorts of patience, then, Miss Robson?
 
-Miss Robson.--There is a kind of false patience, Gertrude,
+[.discourse-part]
+_Miss Robson._--There is a kind of false patience, Gertrude,
 which often enables people to control their feelings, so that, upon trying occasions,
 they shall seem to those around them to possess a great deal of self-command and fortitude.
 This does not deserve to be called by the name of patience, for patience is a holy thing.
 
-Charlotte.--What is the name of this false patience, Miss Robson?
+[.discourse-part]
+_Charlotte._--What is the name of this false patience, Miss Robson?
 
-Miss Robson.--Its name is PRIDE.
+[.discourse-part]
+_Miss Robson._--Its name is PRIDE.
 Do you know anything about it?
 
-Charlotte.--What way does it show itself?
+[.discourse-part]
+_Charlotte._--What way does it show itself?
 
-Miss Robson.--It feels as if it would rather die than seem to be troubled.
+[.discourse-part]
+_Miss Robson._--It feels as if it would rather die than seem to be troubled.
 Hence, as you said just now,
 it tries to look contented and happy when it is ready to cry;
 and it is still and quiet when it feels a wish to break everything to pieces.
 
-Charlotte.--I`'m afraid I was feeling some of this false patience, then;
+[.discourse-part]
+_Charlotte._--I`'m afraid I was feeling some of this false patience, then;
 for I certainly was very unwilling to seem troubled,
 and I did not at all like that Gertrude should show more patience than I did.
 
-Miss Robson.--It is very likely, my dear,
+[.discourse-part]
+_Miss Robson._--It is very likely, my dear,
 that pride had more to do with your perseverance than patience had.
 There must be a deep feeling of the presence of God in the heart,
 before we are able to perform all our actions as in His sight,
@@ -262,38 +283,28 @@ is a holy thing; and as you will often require to be reminded of its value,
 I will repeat to you some lines written by a friend of mine, of which, if you like them,
 I will give you a copy, and then you can learn them by heart.
 
+[.small-break]
+'''
+
 Both the little girls requested to hear them,
 and Miss Robson then recited the following address:
 
+[verse]
+____
 TO PATIENCE.
 
 Meek and submissive Patience! born in woe,
-
 Yet smiling through your tears; how soft and low,
-
-And tranquil is your presence!
-Modest Grace!
-
+And tranquil is your presence! Modest Grace!
 How humble are the scenes where your pale face
-
-Unveils its pensive beauty!
-Deep the cup
-
+Unveils its pensive beauty! Deep the cup
 Of bitterness thou calmly drinkest up!
-
 For welcome is it to your loving heart
-
 In pain and grief to take the largest part;
-
 And sweetly does your gentle spirit share
-
 In what your Master giveth you to bear
-
-Of his sad portion!
-Oh, Thou Holy One,
-
+Of his sad portion! Oh, Thou Holy One,
 Whose latest sigh breathed forth "`Thy will be done!`"
-
 And with that sigh expired for lost mankind,
-
 Let my tried soul your holy patience find!
+____
