@@ -63,14 +63,14 @@ poor woman herself (though from another cause),
 and therefore just as unfit to speak,
 remained behind to lecture Mary Hayes on the impropriety of her conduct.
 
+[verse]
+____
 To give reproof in anger, to be sure,
-
 What`'eer the fault, is not the way to cure.
-
 Would a wise doctor offer, dost thou think,
-
 The sick his potion scalding hot to drink?^
 footnote:[Dr. John Byrom.]
+____
 
 I shall not relate to you what passed between them,
 for it would be very little to your edification.
@@ -307,14 +307,14 @@ and soon you will feel something better than yourself and your own wild feelings
 which seeks to save you from such words and actions as, in a little time,
 you will be truly thankful to be saved from.`"
 
+[verse]
+____
 When grief or joy shall press upon you hard,
-
 Be then especially upon your guard;
-
 Then is most danger of not acting right,
-
 A calmer state will give a surer light.^
 footnote:[Dr. John Byrom.]
+____
 
 The matter turned out just as Miss Robson had predicted.
 The dinner cloth had just been removed,
