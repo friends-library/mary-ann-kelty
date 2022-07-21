@@ -44,7 +44,7 @@ than his desire to obtain a lump became more impetuous
 than ever,--and in order to accomplish his wishes,
 he left no means untried that were within the compass of his abilities.
 He clapped his hands together,
-and uttered all the sounds of ta! and pa! and ma! that he had been used to find admired,
+and uttered all the sounds of _ta!_ and _pa!_ and _ma!_ that he had been used to find admired,
 or, on particular occasions, called for,
 and soon had the happiness of proving their success.
 Gertrude selected a little bit, and gave it to him, and though this was wrong, yet,
@@ -247,7 +247,7 @@ Allen, Miss Robson, and the young people, pursued their needlework.
 I shall not undertake to say whether it was accidental,
 or whether some hint from Miss Robson might influence
 his choice of a book for this evening;
-but so it happened, that having selected the Life of Samuel Kilpin,
+but so it happened, that having selected the [.book-title]#Life of Samuel Kilpin,#
 as that from which he was to read to them,
 he had not proceeded far in it before he came to this anecdote.
 
@@ -424,7 +424,7 @@ Mr. Allen expressed some tokens of deep concern at hearing this.
 "`But you are very sorry for your fault, I don`'t doubt?`"
 said he.
 
-"`Oh, so!--so--so very sorry!`" she at last sobbed out.
+"`Oh, so!--so--so _very_ sorry!`" she at last sobbed out.
 
 "`And have you confessed your sin to your heavenly Father, Gertrude?`"
 inquired Mr. Allen.
