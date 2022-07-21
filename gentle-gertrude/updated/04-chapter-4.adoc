@@ -258,6 +258,8 @@ but so it happened, that having selected the [.book-title]#Life of Samuel Kilpin
 as that from which he was to read to them,
 he had not proceeded far before he came to this anecdote:
 
+[quote]
+____
 "`When seven years old,`" says Mr. Kilpin, "`I was left in charge of the shop.
 A man passed by crying, '`Little toy lambs, all white and clean,
 at one penny each!`' In my eagerness to get one, I lost all self-control,
@@ -278,6 +280,7 @@ With joy and transport I then left the loft, believing and applying to myself th
 told her what I had done, asked her forgiveness, and then burned the lamb,
 while she wept over her young penitent.`"^
 footnote:[Life of Kilpin, p. 6.]
+____
 
 As soon as he had finished reading this touching anecdote, Mr. Allen made a pause,
 as he usually did when he came to anything of a particularly interesting kind.
@@ -359,7 +362,7 @@ only infinitely more degrading (because it relates to an infinitely perfect
 Being) are the thoughts that hardened sinners entertain towards God.
 Hence we read in the 50th Psalm, that, in addressing such persons, the Lord says,
 '`You thought that I was altogether such a one as yourself.`'^
-footnote:[Ps. 50:21]`"
+footnote:[Ps. 50:21]
 
 "`But there is another state, and a far more hopeful and desirable one,
 which sometimes follows the commission of sin,
@@ -388,7 +391,7 @@ All that is needed when we have fallen into sin and transgression,
 is that we return unto the Lord our God.
 '`Take words with you, and return to the Lord.
 Say to Him, take away all iniquity; receive us graciously.`'^
-footnote:[Hosea 14:2]`"
+footnote:[Hosea 14:2]
 
 Mr. Allen ceased to speak,
 and apparently was deeply absorbed in thought for a few moments.

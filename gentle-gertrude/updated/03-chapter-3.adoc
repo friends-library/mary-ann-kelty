@@ -89,6 +89,9 @@ desired to admonish them by letter concerning several things wherein,
 from the ignorance and heedlessness of youth,
 they were likely to stand in need of warning.
 
+[.embedded-content-document.letter]
+--
+
 "`And remember this one thing,`" he says, "`which as a father I admonish you of,
 and charge you to take notice of and observe; which is this,
 that you do not criticize or ridicule one another,
@@ -119,6 +122,8 @@ fatherly instructions to teach you further.
 But, if you are careless, foolish, vain, following your own minds,
 and what rises up there from the wicked one, you will grieve my heart,
 and provoke God against you, to bring evil upon you, both in this world and forever.`"
+
+--
 
 When Harriet and Charlotte had finished writing this passage,
 their slates were put aside till Miss Robson was free to correct them,

@@ -155,7 +155,10 @@ But Harriet`'s heart, at this moment, was not disposed for any display of affect
 Such is the sad consequence of indulging evil feelings!
 As has been remarked by a great poet, on another occasion,
 
-"`They come not single spies, but in battalions.`"
+[verse]
+____
+They come not single spies, but in battalions.
+____
 
 Mr. Allen turned his head upon hearing the door open, and, seeing Harriet,
 extended his hand, though still continuing his eye upon the book, as he said,
@@ -386,17 +389,15 @@ footnote:[Madame Guyon.
 See her Hymn entitled "`The Joy of the Cross,`" translated by Cowper.]
 in these lines:
 
+[verse]
+____
 Self-love no grace in sorrow sees,
-
 Consults her own peculiar ease,
-
 `'Tis all the bliss she knows;
-
 But nobler aims true love employ;
-
 In self-denial is her joy,
-
 In suffering her repose.
+____
 
 Mr. Allen then closed the sacred volume,
 and concluded the morning`'s engagement with devout and earnest supplication,
