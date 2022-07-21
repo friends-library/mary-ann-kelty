@@ -43,7 +43,7 @@ than his desire to obtain a cube became more impetuous
 than ever,--and in order to accomplish his wishes,
 he left no means untried that were within the compass of his abilities.
 He clapped his hands together,
-and uttered all the sounds of "`ta!`" and "`pa!`" and "`ma!`"
+and uttered all the sounds of _"`ta!`"_ and _"`pa!`"_ and _"`ma!`"_
 that he had often found admired by those around him,
 or, on particular occasions, called for,
 and he soon had the happiness of proving their success.
@@ -254,7 +254,7 @@ Allen, Miss Robson, and the young people pursued their needlework.
 I shall not undertake to say whether it was accidental,
 or whether some hint from Miss Robson might have
 influenced his choice of a book for this evening;
-but so it happened, that having selected the Life of Samuel Kilpin,
+but so it happened, that having selected the [.book-title]#Life of Samuel Kilpin,#
 as that from which he was to read to them,
 he had not proceeded far before he came to this anecdote:
 
@@ -434,7 +434,7 @@ Mr. Allen expressed some tokens of deep concern at hearing this.
 "`But you are very sorry for your fault, I don`'t doubt?`"
 said he.
 
-"`Oh, so!--so--so very sorry!`" she at last sobbed out.
+"`Oh, so!--so--so _very_ sorry!`" she at last sobbed out.
 
 "`And have you confessed your sin to your heavenly Father, Gertrude?`"
 inquired Mr. Allen.
