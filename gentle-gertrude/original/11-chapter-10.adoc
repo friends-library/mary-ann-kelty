@@ -55,14 +55,14 @@ But Harriet, forgetting that she was quite as angry, though from another cause,
 as the poor woman herself, and therefore as unfit to speak,
 remained behind to lecture her upon the impropriety of her conduct.
 
+[verse]
+____
 To give reproof in anger, to be sure,
-
 What`'eer the fault, is not the way to cure.
-
 Would a wise doctor offer, dost thou think,
-
 The sick his potion scalding hot to drink?^
 footnote:[Dr. John Byrom.]
+____
 
 I shall not relate to you what passed, for it would be very little to your edification.
 You may suppose it was any thing but of a healing nature,
@@ -291,14 +291,14 @@ and you will feel something better than yourself, and your own wild feelings,
 which is saving you from such words and actions,
 as in a little time you will be truly thankful to see that you were saved from.`"
 
+[verse]
+____
 When grief or joy shall press upon thee hard,
-
 Be then especially upon thy guard;
-
 Then is most danger of not acting right,
-
 A calmer state will give a surer light.^
 footnote:[Dr. John Byrom.]
+____
 
 Just as Miss Robson had predicted, the matter turned out.
 The dinner cloth was no sooner removed, than Harriet was summoned out of the room,

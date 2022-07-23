@@ -24,6 +24,10 @@ and at last came the following, with which I shall close this little narrative.
 [.asterism]
 '''
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My Dear Mrs +++_______+++.
 
 The black seal on this letter will have prepared you for its contents.
@@ -65,37 +69,28 @@ repeated to her little friend and beloved pupil, these lines,
 which Gertrude had been fond of hearing during her illness.
 They were written by a friend of Miss Robson`'s who was in suffering circumstances,
 
+[verse]
+____
 When they their little hour have stayed,
-
 The roses droop and die;
-
 The lilies of the valley fade,
-
 And so, alas, must I!
 
 But wherefore do I say, alas,
-
 And wherefore do I sigh?
-
 The wintry season soon will pass,
-
 And summer days draw nigh:
 
 The lovely rose will re-appear,
-
 The lilies bloom once more;
-
 And spring, returning fresh and fair,
-
 Creation`'s face restore;
 
 And saints of God shall rise renewed
-
 With better life than this;
-
 To dwell with the Supremely Good,
-
 In everlasting bliss.
+____
 
 She smiled sweetly as though these thoughts were very precious to her;
 and when I said "`through One, who died for all,
@@ -144,13 +139,13 @@ so forcibly recalled those beautiful and affecting
 lines of Mr. Cecil`'s on one of his own children,
 an infant of a month old, who died at day-break, that I uttered aloud, the first verse--
 
+[verse]
+____
 Cease here longer to detain me,
-
 Fondest mother, drown`'d in woe;
-
 Now, thy kind caresses pain me,
-
 Morn advances, let me go!
+____
 
 "`Thy day breaketh upon thee, happy child!`"
 I exclaimed, as I pressed my lips upon her cheek,
@@ -183,6 +178,10 @@ you may know as peaceful a departure as our Gentle Gertrude.`"
 In this desire for myself also, and for you, my Christian friend,
 and all my fellow creatures, I rest sincerely yours,
 
+[.signed-section-signature]
 John Allen.
 
+--
+
+[.the-end]
 The End.

@@ -7,31 +7,45 @@ Allen, Miss Robson, and Harriet and Charlotte;
 amongst whom the following conversation took place,
 whilst they were engaged at their work.
 
-Harriet.--What an affected girl Laura Thomson is!
+[.discourse-part]
+_Harriet._--What an affected girl Laura Thomson is!
 
-Charlotte.--I never saw any thing so ridiculous.
+[.discourse-part]
+_Charlotte._--I never saw any thing so ridiculous.
 Here she goes mincing round the room!
+
+[.small-break]
+'''
 
 These words were accompanied by a variety of sinkings and slidings of her person,
 which Charlotte exhibited as a representation of Miss Thomson`'s movements.
 
-Mrs.
-Allen--(trying to suppress a smile).
+[.discourse-part]
+_Mrs.
+Allen._--(trying to suppress a smile).
 Charlotte, Charlotte, that really is very wrong.
 She should not do so, should she, Miss Robson?
 
-Miss Robson.--I think Charlotte would not herself like to be represented in that manner.
+[.discourse-part]
+_Miss Robson._--I think Charlotte would not herself like to be represented in that manner.
 
-Charlotte.--I represented!
+[.discourse-part]
+_Charlotte._--I represented!
 I hope that I don`'t make myself quite so ridiculous as Miss Thomson does.
 
-Miss Robson.--You may not, perhaps, imitate in her particular way.
+[.discourse-part]
+_Miss Robson._--You may not, perhaps, imitate in her particular way.
 You may not be affected after her manner.
 
-Harriet.--But, Miss Robson, I don`'t think Charlotte is at all affected.
+[.discourse-part]
+_Harriet._--But, Miss Robson, I don`'t think Charlotte is at all affected.
 
-Mrs.
-Allen--No, really, Miss Robson, I must think you are a little too hard upon Charlotte.
+[.discourse-part]
+_Mrs.
+Allen._--No, really, Miss Robson, I must think you are a little too hard upon Charlotte.
+
+[.small-break]
+'''
 
 Strengthened by her mother`'s remark, Charlotte assumed the tone of an ill-used person,
 and said she believed that, whatever were her faults,
@@ -41,9 +55,13 @@ with a boldness she would neither have felt nor shown out of her mother`'s prese
 "`I think you would be puzzled to mention when you ever
 saw me make myself so ridiculous as Miss Thomson does.
 
-Miss Robson.--I am not fond of being puzzled, especially by my pupils; for,
+[.discourse-part]
+_Miss Robson._--I am not fond of being puzzled, especially by my pupils; for,
 if there is to be any puzzling at all between us, I think it is my place to puzzle them.
 So I believe, Charlotte, I must give you the puzzle of finding out what I meant.
+
+[.small-break]
+'''
 
 There was a plain straight-forwardness about Miss Robson,
 that never suffered her to turn aside from the point,
@@ -64,13 +82,19 @@ being determined to know what was Miss Robson`'s aim,
 instead of answering Charlotte`'s remark about her work, returned to the former subject,
 by begging of her governess to say wherein she thought Charlotte affected and conceited.
 
-Miss Robson.--I don`'t recollect saying she was either.
+[.discourse-part]
+_Miss Robson._--I don`'t recollect saying she was either.
 
-Harriet.--No, not exactly; but you seemed to think she was both.
+[.discourse-part]
+_Harriet._--No, not exactly; but you seemed to think she was both.
 
-Miss Robson.--I gave Charlotte the puzzle of finding out what I meant by my remarks.
+[.discourse-part]
+_Miss Robson._--I gave Charlotte the puzzle of finding out what I meant by my remarks.
 Perhaps, she has solved the riddle;
 and then you can hear from her all that I have to say on the subject.
+
+[.small-break]
+'''
 
 Whilst this was passing, Charlotte had been manifesting great signs of restlessness,
 looking into this work-box, and that basket,
@@ -78,11 +102,17 @@ as if in search of something that she wanted, though without naming the absent a
 Harriet constrained her now to return to the point she evidently wished to avoid,
 by asking her plainly "`if she knew what was Miss Robson`'s meaning?`"
 
-Charlotte.--(colouring deeply.)-- I believe I do.
+[.discourse-part]
+_Charlotte._--(colouring deeply.)-- I believe I do.
 
-Harriet.--Oh then, do tell me, I must hear what it is.
+[.discourse-part]
+_Harriet._--Oh then, do tell me, I must hear what it is.
 
-Miss Robson.--I will give you an opportunity.
+[.discourse-part]
+_Miss Robson._--I will give you an opportunity.
+
+[.small-break]
+'''
 
 And, as she spoke, she was rising to leave the room; but Charlotte prevented her,
 by throwing her arms round her,
@@ -100,10 +130,14 @@ but as you are thus placed in circumstances which oblige you to be your own repr
 I must suggest to Harriet that it was not kind to indulge the impatient
 curiosity which has drawn you into such a painful situation.`"
 
-Harriet.--Indeed I am to blame.
+[.discourse-part]
+_Harriet._--Indeed I am to blame.
 But I will not hear what Charlotte has to tell; I will punish myself that way.
 I am sure, dear Miss Robson, you have a reason for everything you say,
 or even hint to us, and that is quite enough.
+
+[.small-break]
+'''
 
 Miss Robson was highly pleased with the conduct of both her beloved pupils,
 and there the matter was suffered to rest.
