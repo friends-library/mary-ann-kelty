@@ -1,0 +1,29 @@
+#__id__.trim--s .main-title {
+  font-size: 0.76in;
+}
+
+#__id__ .main-title {
+  font-size: 1in;
+  margin-top: -0.5in;
+}
+
+#__id__.Cover--scope-3-5 .main-title {
+  font-size: 43px; /* help Safari */
+}
+
+#__id__.trim--s .subtitle {
+  font-size: 0.4in;
+}
+
+#__id__ .subtitle {
+  font-size: 0.485in;
+  margin-top: -0.2in;
+}
+
+#__id__ .initials {
+  opacity: 0.8;
+}
+
+#__id__ .blurb {
+  font-size: 2.75%;
+}
