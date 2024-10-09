@@ -18,6 +18,8 @@ jobs:
       DEV_ROOT_PATH: ${{ github.workspace }}
     steps:
       - uses: actions/checkout@v2
+      - name: install libtiff5
+        run: sudo apt-get update && sudo apt-get install -y libgif7
       - name: download pdf binary
         run: |
           curl -s ${CLOUD_STORAGE_BUCKET_URL}/actions/${PRINCE_FILENAME}.tar.gz > ~/prince.tar.gz
