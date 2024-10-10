@@ -2235,7 +2235,7 @@ that the individual can boldly assert "`I know the Lord.`"
 
 === 90
 
-My little children, of whom I travail in birth again, until Christ be formed in you.
+My little children, of whom I travail in birth again, until Christ be formed in you...
 Gal. 4:19
 
 The analogy which subsists throughout the kingdom of nature, would lead us with reason,
@@ -2330,7 +2330,7 @@ by doing the divine will which it reveals to us,
 we become established in the knowledge of religious doctrine, not as man,
 but as God teaches it, and are never in doubt about its meaning.
 
-94
+=== 94
 
 He restores my soul; he leads me in the paths of righteousness for his name`'s sake.
 Psalm 23:3
@@ -2955,13 +2955,17 @@ Do you ask how this Divine knowledge is to be acquired?
 Here are some plain, practical directions from a holy minister of the truth,^
 footnote:[Isaac Penington, whose complete works are available on www.friendslibrary.com]
 who speaks to that point, manifestly from personal experience.
-"`Retire inwardly, and wait to feel something of the Lord;
+
+[quote]
+____
+Retire inwardly, and wait to feel something of the Lord;
 something of his Holy Spirit and power,
 discovering and drawing away from that which is contrary to him,
 and leading the soul into his holy nature and heavenly image.
 As the mind is joined to this, some true light and life is received,
 which the creature abiding in, is safe; but there must be no exceeding,
-or running before its leadings.`"
+or running before its leadings.
+____
 
 === 121
 
@@ -3051,12 +3055,18 @@ and manifestly symbolizes the refuge which Almighty
 goodness has provided for those whose weakness,
 sinfulness, and snares, would so often cause them to need a place of safety.
 How well was this shelter of the soul understood by the spiritually minded in
-ancient times! "`In the shadow of your wings will I make my refuge`" Psalm 57:1.
+ancient times!
 
+[.offset]
+"`In the shadow of your wings will I make my refuge`" Psalm 57:1.
+
+[.offset]
 "`Keep me as the apple of your eye; hide me under the shadow of your wings`" Psalm 17:8.
 
+[.offset]
 "`In the shadow of your wings will I rejoice`" Psalm 63:7.
 
+[.offset]
 "`He shall cover you with His feathers; and under His wings shall you trust`" Psalm 91:4.
 
 === 125
@@ -3147,15 +3157,18 @@ Still,
 the consciousness of having "`chosen the way of truth,`" secretly strengthened his faith.
 It was a bitter moment.
 
-"`He cast himself on the ground, and gave utterance to those cries interrupted by sobs,
+[quote]
+____
+He cast himself on the ground, and gave utterance to those cries interrupted by sobs,
 which none can understand but such as can feel the depth of his anguish.
-'`Almighty, and everlasting God!`'--he exclaimed--'`how terrible is this world!
-How would it open its jaws to devour me, and how weak is my trust in you!`' Yet he adds,
-'`Oh God!
+"`Almighty, and everlasting God!`"--he exclaimed--"`how terrible is this world!
+How would it open its jaws to devour me, and how weak is my trust in you!`" Yet he adds,
+"`Oh God!
 Oh God!
 I will not go away from You--I am ready to forsake
-life for Your truth--patient as a lamb!`'`"^
-footnote:[Quoted from Emmaus, p. 251]
+life for Your truth--patient as a lamb!`"^
+footnote:[Quoted from __Emmaus,__ p. 251]
+____
 
 === 129
 
@@ -3424,11 +3437,14 @@ and which refresh it when it is weary.
 Here is a little testimony I met with today in my reading,
 which bears witness to the power of this living water.
 
-"`October 22nd. 1704.
+[quote]
+____
+__October 22nd. 1704.__
 I experienced an inexpressibly pleasant melting of heart,
 tears gushing out of my eyes for joy that God should
-shed abundantly his love through the hearts of men.`"^
-footnote:[John Howe, Author of The Living Temple.]
+shed abundantly his love through the hearts of men.^
+footnote:[John Howe, Author of __The Living Temple.__]
+____
 
 === 141
 
@@ -3615,7 +3631,9 @@ A soul in passing from this wretched world into the bosom of that love,
 once said some memorable words respecting it.
 Here are a few of them.
 
-"`There is a Spirit which I feel, that delights to do no evil, nor to revenge any wrong;
+[quote]
+____
+There is a Spirit which I feel, that delights to do no evil, nor to revenge any wrong;
 but delights to endure all things, in hope to enjoy its own in the end.
 Its hope is to outlive all wrath and contention,
 and to weary out all exaltation and cruelty,
@@ -3625,14 +3643,15 @@ As it bears no evil in itself, so it conceives none in thought to any other.
 If it be betrayed, it bears it;
 for its ground and spring is the mercy and forgiveness of God.
 Its crown is meekness, its life is everlasting love unfeigned,
-and it never rejoices but through suffering.`"^
-footnote:[The whole transcript will be found in Archdeacon Hare`'s Life of Sterling,
+and it never rejoices but through suffering.^
+footnote:[The whole transcript will be found in Archdeacon Hare`'s __Life of Sterling,__
 who stated it in a letter to the Archdeacon, as comprising his code of faith;
 but if I remember right,
 he withholds the circumstances under which these words were spoken,
 and the name of the speaker, which was James Nayler, one of the Primitive Quakers.
 Several of Nayler`'s writings are available on www.friendslibrary.com
-in a book called There is a Spirit which I Feel.]
+in a book called __There is a Spirit which I Feel.__]
+____
 
 === 149
 
@@ -5370,7 +5389,7 @@ but to guide us to the knowledge of truth;
 and by establishing its dominion in our consciences,
 to set us free from the thraldom of error?
 
-=== 123
+=== 223
 
 In the day of prosperity be joyful, but in the day of adversity consider:
 surely God has appointed the one as well as the other,
