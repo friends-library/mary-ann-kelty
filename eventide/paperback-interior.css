@@ -1,5 +1,7 @@
 h3 {
   prince-page-group: start;
+  font-size: 1.2rem;
+  text-align: center;
   /* margin-top: 0 !important; */
   /* padding-top: 0 !important; */
   /* background: pink; */
@@ -21,7 +23,7 @@ blockquote.scripture {
 }
 
 blockquote.scripture > p {
-  font-size: 1.1rem;
+  font-size: 1.0rem;
   padding-left: 0;
   text-align: center;
 }
