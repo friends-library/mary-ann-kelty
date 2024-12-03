@@ -1,26 +1,20 @@
 h3 {
   prince-page-group: start;
-  font-size: 1.2rem;
-  text-align: center;
+  counter-reset: footnote;
 }
 
 .chapter {
   margin-top: 7em;
 }
 
-blockquote.scripture {
-  margin-left: 0;
-  border-left: 0;
+.chapter-1 .chapter-heading h2 {
+  margin-top: 15em;
 }
 
-blockquote.scripture > p {
-  font-size: 1.0rem;
-  padding-left: 0;
-  text-align: center;
+*::footnote-call {
+  content: counter(footnote, symbols('*', '†', '‡', '§'));
 }
 
-figure.attributed-quote.scripture figcaption {
-  text-align: center;
-  font-size: 0.925rem;
-  margin-top: -0.625em;
+*::footnote-marker {
+  content: counter(footnote, symbols('*', '†', '‡', '§'));
 }
