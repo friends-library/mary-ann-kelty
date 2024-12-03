@@ -2,19 +2,10 @@ h3 {
   prince-page-group: start;
   font-size: 1.2rem;
   text-align: center;
-  /* margin-top: 0 !important; */
-  /* padding-top: 0 !important; */
-  /* background: pink; */
 }
 
-/* @page { */
-/*   /1* margin-top: 3em !important; *1/ */
-/*   background: lightblue; */
-/*   padding-top: 0 !important; */
-/* } */
-
 .chapter {
-  margin-top: 2em;
+  margin-top: 7em;
 }
 
 blockquote.scripture {
