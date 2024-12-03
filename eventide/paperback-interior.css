@@ -1,0 +1,20 @@
+h3 {
+  prince-page-group: start;
+  counter-reset: footnote;
+}
+
+.chapter {
+  margin-top: 7em;
+}
+
+.chapter-1 .chapter-heading h2 {
+  margin-top: 15em;
+}
+
+*::footnote-call {
+  content: counter(footnote, symbols('*', '†', '‡', '§'));
+}
+
+*::footnote-marker {
+  content: counter(footnote, symbols('*', '†', '‡', '§'));
+}
