@@ -2816,7 +2816,7 @@ is sure to raise in the soul.
 
 === CV
 
-[quote.scripture, , Isaiah 2:12, 16]
+[quote.scripture, , "Isaiah 2:12,16"]
 ____
 The day of the Lord is upon all pleasant pictures.
 ____
@@ -3315,7 +3315,7 @@ and merely watched against, instead of joining with, his subtle temptations.
 
 === CXXIV
 
-[quote.scripture, , Exodus 25:20, 22]
+[quote.scripture, , "Exodus 25:20,22"]
 ____
 And the cherubim shall stretch forth their wings on high,
 covering the mercy seat with their wings...
@@ -3347,7 +3347,7 @@ ancient times!
 
 === CXXV
 
-[quote.scripture, , Psalm 42:1, 2]
+[quote.scripture, , "Psalm 42:1,2"]
 ____
 As the hart panteth after the water brooks,
 so panteth my soul after thee, O God...
@@ -3507,7 +3507,8 @@ to "`live peaceably with all men.`"
 
 [quote.scripture, , John 17:3]
 ____
-And this is life eternal, that they might know thee, the only true God, and Jesus Christ whom thou hast sent.
+And this is life eternal, that they might know thee,
+the only true God, and Jesus Christ whom thou hast sent.
 ____
 
 To know "`the only true God,`" and to be "`in Him that is true,`"
@@ -3843,7 +3844,7 @@ light He shewed it me--when His word was "`running swiftly.`"
 
 === CXLIV
 
-[quote.scripture, , Psalm 139:1, 2, 3]
+[quote.scripture, , Psalm 139:1-3]
 ____
 O Lord, thou hast searched me, and known me...
 thou understandest my thought afar off.
@@ -5834,7 +5835,7 @@ and watch, and wait for, and to _obey._
 
 === CCXXI
 
-[quote.scripture, , Ephesians 6:13, 14]
+[quote.scripture, , Ephesians 6:13-14]
 ____
 Take unto you the whole armour of God, that ye may be able to withstand in the evil day,
 and having done all to stand.
@@ -5908,8 +5909,10 @@ adversity by and by.
 
 === CCXXIV
 
-[.blurb]
-=== God is a Spirit, and they that worship him, must worship him in spirit and in truth. John 4:24
+[quote.scripture, , John 4:24]
+____
+God is a Spirit, and they that worship him, must worship him in spirit and in truth.
+____
 
 This is the only true worship; and the end of all creeds, and formulas,
 and religious ceremonies, is to bring us to the knowledge of it;
@@ -5932,8 +5935,11 @@ footnote:[Zephaniah 3:17]
 
 === CCXXV
 
-[.blurb]
-=== Behold thou desirest truth in the inward parts; and in the hidden part, thou shalt make me to know wisdom. Psalm 51:6
+[quote.scripture, , Psalm 51:6]
+____
+Behold thou desirest truth in the inward parts;
+and in the hidden part, thou shalt make me to know wisdom.
+____
 
 The views which are commonly taken of religion,
 incline persons to look for it as something that is necessary to their safety,
@@ -5956,8 +5962,11 @@ and see there his estimate of what religion was to do for him.
 
 === CCXXVI
 
-[.blurb]
-=== Keep sound wisdom and discretion; so shall they be life unto thy soul, and grace unto thy neck. Proverbs 3:21, 22
+[quote.scripture, , "Proverbs 3:21,22"]
+____
+Keep sound wisdom and discretion;
+so shall they be life unto thy soul, and grace unto thy neck.
+____
 
 Pride, though its name is ugly,
 is not without its proper and appointed office in human nature.
@@ -5980,8 +5989,11 @@ and who will never fail to give you all that is needful for your highest good.
 
 === CCXXVII
 
-[.blurb]
-=== Man`'s goings are of the Lord; how can a man then, understand his own way? Proverbs 20:24
+[quote.scripture, , Proverbs 20:24]
+____
+Man`'s goings are of the Lord;
+how can a man then, understand his own way?
+____
 
 John Foster, the well known essayist, says,
 "`I have just been reading an author who mentions with very great force of reason,
@@ -6002,8 +6014,10 @@ of things which in his eyes were long before established.
 
 === CCXXVIII
 
-[.blurb]
-=== Gather of it every man according to his eating. Exodus 16:16
+[quote.scripture, , Exodus 16:16]
+____
+Gather of it every man according to his eating.
+____
 
 It is incalculable what we lose from not looking for God in little things.
 Well is it said, "`whoso is wise, and will observe these things!`" Psalm 107:43.
@@ -6024,8 +6038,10 @@ Take it, as what the order of God at that time assigns for your gathering.
 
 === CCXXIX
 
-[.blurb]
-=== And his name shall be called Wonderful, Counsellor... Isaiah 9:6
+[quote.scripture, , Isaiah 9:6]
+____
+And his name shall be called Wonderful, Counsellor...
+____
 
 Every human being requires to be governed,
 and it is only the foolish and ignorant who "`walk
@@ -6051,8 +6067,11 @@ this is the way to be built into a condition of stability and peace.
 
 === CCXXX
 
-[.blurb]
-=== Whatsoever things ye desire when ye pray, believe that ye receive them, and ye shall have them. Mark 11:24
+[quote.scripture, , Mark 11:24]
+____
+Whatsoever things ye desire when ye pray,
+believe that ye receive them, and ye shall have them.
+____
 
 There is a kind of magnetism in the will,
 which gives it the power of attracting to itself whatever it strongly desires,
@@ -6074,8 +6093,11 @@ Yet, at every utterance, I have seemed to taste somewhat of the blessed thing I 
 
 === CCXXXI
 
-[.blurb]
-=== The work of righteousness shall be peace; and the effect of righteousness, quietness and assurance forever. Isaiah 32:17
+[quote.scripture, , Isaiah 32:17]
+____
+The work of righteousness shall be peace;
+and the effect of righteousness, quietness and assurance forever.
+____
 
 This word of strength and comfort was given me just now,
 in somewhat of a struggle to retain my spirit fixed, tranquil, and prayerful.
@@ -6096,8 +6118,11 @@ and standing fast on that interior something, as on a rock.
 
 === CCXXXII
 
-[.blurb]
-=== When the enemy shall come in like a flood, the spirit of the Lord shall lift up a standard against him. Isaiah 59:19
+[quote.scripture, , Isaiah 59:19]
+____
+When the enemy shall come in like a flood,
+the spirit of the Lord shall lift up a standard against him.
+____
 
 We get but half way on the road to truth, in the possession of faith in God and goodness;
 for, we must also have faith in the existence of the prince of evil,
@@ -6120,8 +6145,14 @@ undertake for me!`"
 
 === CCXXXIII
 
-[.blurb]
-=== Fear not, for I have redeemed thee; I have called thee by thy name... When thou passest through the waters, I will be with thee... when thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee. Isaiah 43:1, 2
+[quote.scripture, , "Isaiah 43:1,2"]
+____
+Fear not, for I have redeemed thee;
+I have called thee by thy name...
+When thou passest through the waters, I will be with thee...
+when thou walkest through the fire, thou shalt not be burned;
+neither shall the flame kindle upon thee.
+____
 
 It is observed by Mr. Cecil,
 that "`there is a power of faith which is stronger than the fear of death,
@@ -6140,8 +6171,11 @@ and hence the preciousness of such promises as this divine Scripture extends eve
 
 === CCXXXIV
 
-[.blurb]
-=== Through desire a man having separated himself, seeketh and intermeddleth with all wisdom. Proverbs 18:1
+[quote.scripture, , Proverbs 18:1]
+____
+Through desire a man having separated himself,
+seeketh and intermeddleth with all wisdom.
+____
 
 There is a striking quotation in a work I lately met with,
 from the Roman Emperor Marcus Antoninus.^
@@ -6173,8 +6207,12 @@ we must separate ourselves from the influences of the flesh, and fleshly mind.
 
 === CCXXXV
 
-[.blurb]
-=== Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger. Psalm 8:2
+[quote.scripture, , Psalm 8:2]
+____
+Out of the mouth of babes and sucklings
+hast thou ordained strength because of thine enemies,
+that thou mightest still the enemy and the avenger.
+____
 
 Strong temperaments are exceedingly liable to fierce assaults from the enemy,
 on the side of bitter and violent tempers.
@@ -6193,8 +6231,16 @@ and you will find that _here_ is the true place of refuge in all trials.
 
 === CCXXXVI
 
-[.blurb]
-=== His watchmen are blind, they are all ignorant, they are all dumb dogs, they cannot bark, sleeping, lying down, loving to slumber. Yea, they are greedy dogs, which can never have enough; and they are shepherds which cannot understand; they all look to their own way; every one his gain from his quarter. Come ye, say they, I will fetch wine, and we will fill ourselves with strong drink; and tomorrow shall be as this day, and much more abundant. Isaiah 56:10-12
+[quote.scripture, , Isaiah 56:10-12]
+____
+His watchmen are blind, they are all ignorant, they are all dumb dogs,
+they cannot bark, sleeping, lying down, loving to slumber.
+Yea, they are greedy dogs, which can never have enough;
+and they are shepherds which cannot understand;
+they all look to their own way; every one his gain from his quarter.
+Come ye, say they, I will fetch wine, and we will fill ourselves with strong drink;
+and tomorrow shall be as this day, and much more abundant.
+____
 
 How vivid a picture have we here of the natural man with his love of ease and pleasure!
 How entirely does _he_ look to his own way, and only that!
@@ -6210,8 +6256,11 @@ but no price is too great to pay for a sensible experience of its presence and p
 
 === CCXXXVII
 
-[.blurb]
-=== My soul is among lions, and I lie even among them that are set on fire... God shall send forth his mercy and his truth. Psalm 57:4, 3
+[quote.scripture, , "Psalm 57:4,3"]
+____
+My soul is among lions, and I lie even among them that are set on fire...
+God shall send forth his mercy and his truth.
+____
 
 What _can_ I do?
 This is the agitated query of the fiercely assaulted soul when hunted
@@ -6234,8 +6283,10 @@ you have acquired in that terrible habitation.
 
 === CCXXXVIII
 
-[.blurb]
-=== The Lord is my light, and my salvation. Psalm 27:1
+[quote.scripture, , Psalm 27:1]
+____
+The Lord is my light, and my salvation.
+____
 
 God`'s way of teaching and guiding the soul, is only to be learned by very quiet,
 very long, and very patient observation.
@@ -6261,8 +6312,11 @@ and from the snares of the dark power that works there to its destruction.
 
 === CCXXXIX
 
-[.blurb]
-=== We have a strong city; salvation will God appoint for walls and bulwarks. Isaiah 26:1
+[quote.scripture, , Isaiah 26:1]
+____
+We have a strong city;
+salvation will God appoint for walls and bulwarks.
+____
 
 The Scriptures of the Old Testament are full of the most powerful imagery; and,
 after the manner of Oriental diction,
@@ -6282,8 +6336,11 @@ The strong city is that only in which the Spirit of God rules.
 
 === CCXL
 
-[.blurb]
-=== Wilt thou not from this time cry unto me, My father, thou art the guide of my youth? Jeremiah 3:4
+[quote.scripture, , Jeremiah 3:4]
+____
+Wilt thou not from this time cry unto me,
+My father, thou art the guide of my youth?
+____
 
 The soul is in a hopeful state when,
 touched and melted by a sense of the nature of God as a
@@ -6305,8 +6362,11 @@ And, however oppressed by sin or by the adversary, to remember these blessed wor
 
 === CCXLI
 
-[.blurb]
-=== Restore unto me the joy of thy salvation, and uphold me with thy free spirit. Psalm 51:12
+[quote.scripture, , Psalm 51:12]
+____
+Restore unto me the joy of thy salvation,
+and uphold me with thy free spirit.
+____
 
 I feel as if I could never sufficiently impress upon my mind a
 distaste to that ignoble but too common view of religion which
@@ -6327,8 +6387,12 @@ and making him pure and lovely in the sight of God.
 
 === CCXLII
 
-[.blurb]
-=== And now brethren, I commend you to God, and the word of his grace which is able to build you up, and to give you an inheritance among all them that are sanctified. Acts 20:32
+[quote.scripture, , Acts 20:32]
+____
+And now brethren, I commend you to God,
+and the word of his grace which is able to build you up,
+and to give you an inheritance among all them that are sanctified.
+____
 
 The wretchedness of the human being in his desolate, ignorant,
 and confused condition when left on his own hands,
@@ -6350,8 +6414,10 @@ and makes it rich with an inheritance of its own.
 
 === CCXLIII
 
-[.blurb]
-=== My soul followeth hard after thee; thy right hand upholdeth me. Psalm 63:8
+[quote.scripture, , Psalm 63:8]
+____
+My soul followeth hard after thee; thy right hand upholdeth me.
+____
 
 No spiritual exercise is so intense in its nature
 as that of retiring inwardly to wait upon God;
@@ -6375,8 +6441,12 @@ can they be understood without that obedience.
 
 === CCXLIV
 
-[.blurb]
-=== For the flesh lusteth against the spirit, and the spirit against the flesh; and these are contrary the one to the other; so that ye cannot do the things that ye would. Galatians 5:17
+[quote.scripture, , Galatians 5:17]
+____
+For the flesh lusteth against the spirit, and the spirit against the flesh;
+and these are contrary the one to the other;
+so that ye cannot do the things that ye would.
+____
 
 Hard and contrary to the will and wishes of nature,
 are the leadings and rebukes of the Spirit of God.
@@ -6403,8 +6473,11 @@ I opened not my mouth; for it was thy doing.`"
 
 === CCXLV
 
-[.blurb]
-=== O thou, that dwellest upon many waters, abundant in treasures; thine end is come, and the measure of thy covetousness. Jeremiah 51:13
+[quote.scripture, , Jeremiah 51:13]
+____
+O thou, that dwellest upon many waters, abundant in treasures;
+thine end is come, and the measure of thy covetousness.
+____
 
 How active and insatiable are the workings of the heart after joy!
 Now it is this thing, now that, but never the thing that is near, and simple,
@@ -6426,8 +6499,13 @@ and in fulfilling simply and humbly the little duty of the present little moment
 
 === CCXLVI
 
-[.blurb]
-=== And we know that the Son of God is come; and hath given us an understanding, that we may know him that is true: and we are in him that is true, even in his Son Jesus Christ. This is the true God, and eternal life. 1 John 5:20
+[quote.scripture, , 1 John 5:20]
+____
+And we know that the Son of God is come;
+and hath given us an understanding, that we may know him that is true:
+and we are in him that is true, even in his Son Jesus Christ.
+This is the true God, and eternal life.
+____
 
 How deeply spiritual,
 how full of divine unction is this view of our relationship to Christ:
@@ -6449,8 +6527,11 @@ is true;`" and able to say from the depth of its divine joy and satisfaction,
 
 === CCXLVII
 
-[.blurb]
-=== Surely I have behaved and quieted myself, as a child that is weaned of his mother; my soul is even as a weaned child. Psalm 131:2
+[quote.scripture, , Psalm 131:2]
+____
+Surely I have behaved and quieted myself, as a child that is weaned of his mother;
+my soul is even as a weaned child.
+____
 
 The very words drop like the balm of Gilead on the
 fretting irritability of the fleshly mind,
@@ -6471,8 +6552,10 @@ and made meet to receive it.
 
 === CCXLVIII
 
-[.blurb]
-=== And the idols he shall utterly abolish. Isaiah 2:18
+[quote.scripture, , Isaiah 2:18]
+____
+And the idols he shall utterly abolish.
+____
 
 It is something more, and something deeper,
 than the outward act of idolatry to which these words of the prophet point.
@@ -6494,8 +6577,13 @@ by doing our best to abolish the idols which the Lord is determined to remove.
 
 === CCXLIX
 
-[.blurb]
-=== Mortify your members which are upon the earth; fornication, uncleanness, inordinate affection, evil concupiscence and covetousness, which is idolatry... Put on, as the elect of God, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering... Colossians 3:5, 12
+[quote.scripture, , "Colossians 3:5,12"]
+____
+Mortify your members which are upon the earth;
+fornication, uncleanness, inordinate affection, evil concupiscence and covetousness,
+which is idolatry... Put on, as the elect of God, bowels of mercies, kindness,
+humbleness of mind, meekness, longsuffering...
+____
 
 "`Covetousness, which is idolatry.`"
 Put away this,
@@ -6516,8 +6604,11 @@ and nourish the precious seeds of humility and kindness, and your task will be e
 
 === CCL
 
-[.blurb]
-=== These wait all upon thee, that thou mayest give them their meat in due season. That thou givest them, they gather. Psalm 104:27, 28
+[quote.scripture, , "Psalm 104:27,28"]
+____
+These wait all upon thee, that thou mayest give them their meat in due season.
+That thou givest them, they gather.
+____
 
 Nothing advances the soul in the knowledge of Truth, and effectually builds it up,
 but the act of waiting upon the Lord;
@@ -6539,8 +6630,14 @@ waiting at the posts of my doors,`" saith the Spirit of Wisdom, Proverbs 8:34.
 
 === CCLI
 
-[.blurb]
-=== Because thou sayest I am rich, and increased in goods, and have need of nothing, and knowest not that thou art wretched and miserable, and poor, and blind, and naked; I counsel thee to buy of me gold tried in the fire, that thou mayest be rich, and white raiment that thou mayest be clothed. Rev. 3:17, 18
+[quote.scripture, , "Rev. 3:17,18"]
+____
+Because thou sayest I am rich, and increased in goods,
+and have need of nothing, and knowest not that thou art wretched and miserable,
+and poor, and blind, and naked;
+I counsel thee to buy of me gold tried in the fire, that thou mayest be rich,
+and white raiment that thou mayest be clothed.
+____
 
 How intense and undying is the spirit of self-love and self-worship!
 and how insensible are we to the strength and subtlety of its workings.
@@ -6556,8 +6653,11 @@ when this celestial illuminator revealed to us the odiousness of self-glory and 
 
 === CCLII
 
-[.blurb]
-=== My grace is sufficient for thee; for my strength is made perfect in weakness. 2 Cor. 12:9
+[quote.scripture, , 2 Cor. 12:9]
+____
+My grace is sufficient for thee;
+for my strength is made perfect in weakness.
+____
 
 That which wants to be brought down and subjugated,
 is the domineering activity of the will which is
@@ -6584,11 +6684,18 @@ where His strength is perfected in our weakness.
 
 === CCLIII
 
-[.blurb]
-=== Sow to yourselves in righteousness, reap in mercy; break up your fallow ground, for it is time to seek the Lord, till he come and rain righteousness upon you. Hosea. 10:12
+[quote.scripture, , Hosea. 10:12]
+____
+Sow to yourselves in righteousness, reap in mercy;
+break up your fallow ground, for it is time to seek the Lord,
+till he come and rain righteousness upon you.
+____
 
-[.blurb]
-=== My doctrine shall drop as the rain, my speech shall distil as the dew; as the small rain upon the tender herb, and as the showers upon the grass. Deut. 32:2
+[quote.scripture, , Deut. 32:2]
+____
+My doctrine shall drop as the rain, my speech shall distil as the dew;
+as the small rain upon the tender herb, and as the showers upon the grass.
+____
 
 There is a state of feeling, "`Oh,
 how greatly to be watched against!`" in which the
@@ -6608,8 +6715,10 @@ and how patiently should they be watched and waited for!
 
 === CCLIV
 
-[.blurb]
-=== They that wait upon the Lord, shall renew their strength. Isaiah 40:31
+[quote.scripture, , Isaiah 40:31]
+____
+They that wait upon the Lord, shall renew their strength.
+____
 
 I am quite aware of the tautology of which I am guilty,
 in the endless repetitions I make respecting the duty of waiting upon God.
@@ -6634,8 +6743,10 @@ and in the very act itself of waiting, you will not fail to find your strength r
 
 === CCLV
 
-[.blurb]
-=== He satisfieth the longing soul, and filleth the hungry soul with goodness. Psalm 107:9
+[quote.scripture, , Psalm 107:9]
+____
+He satisfieth the longing soul, and filleth the hungry soul with goodness.
+____
 
 Desire always accomplishes its purpose, if it be within the reach of possibilities.
 Only let there be the vitality of the will present, and the work is done.
@@ -6656,8 +6767,13 @@ and to be satisfied with goodness, there must first be a hunger for it.
 
 === CCLVI
 
-[.blurb]
-=== Canst thou by searching find out God? Canst thou find out the Almighty unto perfection? It is as high as Heaven, what canst thou do? Deeper than hell, what canst thou know? Job 11:7-8
+[quote.scripture, , Job 11:7-8]
+____
+Canst thou by searching find out God?
+Canst thou find out the Almighty unto perfection?
+It is as high as Heaven, what canst thou do?
+Deeper than hell, what canst thou know?
+____
 
 We must not be discouraged at perceiving,
 as every day of our lives we shall have occasion to perceive,
@@ -6678,8 +6794,10 @@ nature to that which you call your own.
 
 === CCLVII
 
-[.blurb]
-=== Hold up my goings in thy paths, that my footsteps slip not. Psalm 17:5
+[quote.scripture, , Psalm 17:5]
+____
+Hold up my goings in thy paths, that my footsteps slip not.
+____
 
 Well is this supplication understood by the earnest seeker
 after God! for too truly does such an one know,
@@ -6700,8 +6818,10 @@ Be strong then, dear soul, and always abounding in this work of the Lord;
 
 === CCLVIII
 
-[.blurb]
-=== Unto the upright there ariseth light in the darkness. Psalm 112:4
+[quote.scripture, , Psalm 112:4]
+____
+Unto the upright there ariseth light in the darkness.
+____
 
 How vain and false is everything that is extrinsic to the soul!
 It is only the transitory, perishable, fleshly mind that can be satisfied with it.
@@ -6723,8 +6843,13 @@ and painful a one it may seem to you) to a city of habitation.`"
 
 === CCLIX
 
-[.blurb]
-=== For unto us a child is born, unto us a Son is given; and the government shall be upon his shoulder; and his name shall be called Wonderful, Counsellor, the mighty God, the everlasting Father, the Prince of Peace. Isaiah 9:6
+[quote.scripture, , Isaiah 9:6]
+____
+For unto us a child is born, unto us a Son is given;
+and the government shall be upon his shoulder;
+and his name shall be called Wonderful, Counsellor,
+the mighty God, the everlasting Father, the Prince of Peace.
+____
 
 "`Great is the mystery of godliness;`" and hence the prayer of the Apostle for his disciples,
 "`that the God of our Lord Jesus Christ the Father of glory,
@@ -6744,8 +6869,10 @@ and make our abode with him.`"
 
 === CCLX
 
-[.blurb]
-=== Feeding themselves without fear... Jude 1:12
+[quote.scripture, , Jude 1:12]
+____
+Feeding themselves without fear...
+____
 
 It is of vast importance to watch long and closely the nature
 of the provender with which the mind is supplied.
@@ -6769,8 +6896,10 @@ The moment`'s food will only suit the particular moment for which it is sent.
 
 === CCLXI
 
-[.blurb]
-=== Thy word is very pure, therefore thy servant loveth it. Psalm 119:140
+[quote.scripture, , Psalm 119:140]
+____
+Thy word is very pure, therefore thy servant loveth it.
+____
 
 Ah, how precious is it only to taste of this word, only to have a savour for a moment,
 of its exceeding purity, delicacy, and sweetness!
@@ -6791,8 +6920,12 @@ and let all that is within thee say "`even so, come Lord Jesus.`"
 
 === CCLXII
 
-[.blurb]
-=== Gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ. 1 Peter 1:13
+[quote.scripture, , 1 Peter 1:13]
+____
+Gird up the loins of your mind, be sober,
+and hope to the end for the grace that is to be
+brought unto you at the revelation of Jesus Christ.
+____
 
 In few things are greater mistakes made,
 and with more damage to the growth of the soul in truth,
@@ -6815,8 +6948,13 @@ Suffice it that you put yourself in a position of mind to receive it.
 
 === CCLXIII
 
-[.blurb]
-=== The Spirit of the Lord shall rest upon him... and shall make him of quick understanding in the fear of the Lord; and he shall not judge after the sight of his eyes, neither reprove after the hearing of his ears. Isaiah 11:2, 3
+[quote.scripture, , "Isaiah 11:2,3"]
+____
+The Spirit of the Lord shall rest upon him...
+and shall make him of quick understanding in the fear of the Lord;
+and he shall not judge after the sight of his eyes,
+neither reprove after the hearing of his ears.
+____
 
 Constantly feel after something in your spirit that judges righteous judgment,
 and that is purer, and quicker than the judgment of reason.
@@ -6835,8 +6973,12 @@ in this word of the Prophet now before us.
 
 === CCLXIV
 
-[.blurb]
-=== Babylon hath been a golden cup in the Lord`'s hand, that hath made all the earth drunk; the nations have drunken of her wine, therefore the nations are mad. Jeremiah 51:7
+[quote.scripture, , Jeremiah 51:7]
+____
+Babylon hath been a golden cup in the Lord`'s hand,
+that hath made all the earth drunk;
+the nations have drunken of her wine, therefore the nations are mad.
+____
 
 The spirit and the flesh are strikingly exemplified in Scripture,
 by the symbolic language of Jerusalem and Babylon;
@@ -6856,8 +6998,13 @@ and always discontented.
 
 === CCLXV
 
-[.blurb]
-=== The Lord is my strength and my shield; my heart trusted in him and I am helped; therefore my heart greatly rejoiceth; and with my song will I praise him. Psalm 28:7
+[quote.scripture, , Psalm 28:7]
+____
+The Lord is my strength and my shield;
+my heart trusted in him and I am helped;
+therefore my heart greatly rejoiceth;
+and with my song will I praise him.
+____
 
 The soul that knows nothing of an inward warfare between flesh and spirit,
 can but imperfectly understand the Psalms of David;
@@ -6875,8 +7022,10 @@ conception of divine shelter and defence!
 
 === CCLXVI
 
-[.blurb]
-=== The Lamb which is in the midst of the throne shall feed them. Rev. 7:17
+[quote.scripture, , Rev. 7:17]
+____
+The Lamb which is in the midst of the throne shall feed them.
+____
 
 Nothing but the nature of God can effectually feed the soul,
 for nothing else can satisfy it.
@@ -6901,8 +7050,10 @@ yea drink abundantly, O beloved!`"
 
 === CCLXVII
 
-[.blurb]
-=== How precious are thy thoughts unto me, O God! how great is the sum of them! Psalm 139:17
+[quote.scripture, , Psalm 139:17]
+____
+How precious are thy thoughts unto me, O God! how great is the sum of them!
+____
 
 This is the right testimony on the part of the creature,
 to the blessedness of communion with the Creator.
@@ -6923,8 +7074,12 @@ and lays them to rest in his bosom.`"
 
 === CCLXVIII
 
-[.blurb]
-=== We wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places. Ephesians 6:12
+[quote.scripture, , Ephesians 6:12]
+____
+We wrestle not against flesh and blood, but against principalities,
+against powers, against the rulers of the darkness of this world,
+against spiritual wickedness in high places.
+____
 
 Very sore and very frequent,
 are the assaults of the rulers of the darkness of this world
@@ -6946,8 +7101,15 @@ who will not only put them into your hands, but instruct you how to use them.
 
 === CCLXIX
 
-[.blurb]
-=== I will make waste mountains and hills, and dry up all their herbs; and I will make the rivers islands, and I will dry up the pools. And I will bring the blind by a way that they knew not; I will lead them in paths that they have not known; I will make darkness light before them, and crooked things straight. These things will I do unto them, and not forsake them. Isaiah 42:15-16
+[quote.scripture, , Isaiah 42:15-16]
+____
+I will make waste mountains and hills, and dry up all their herbs;
+and I will make the rivers islands, and I will dry up the pools.
+And I will bring the blind by a way that they knew not;
+I will lead them in paths that they have not known;
+I will make darkness light before them, and crooked things straight.
+These things will I do unto them, and not forsake them.
+____
 
 The way of God with the soul that he intends to purify,
 and render meet for its master`'s use, is a terrible way to flesh and blood.
@@ -6963,8 +7125,10 @@ that we realize the word which says "`in thy light shall we see light.`"
 
 === CCLXX
 
-[.blurb]
-=== Vain man would be wise, though man be born like a wild ass`'s colt. Job 11:12
+[quote.scripture, , Job 11:12]
+____
+Vain man would be wise, though man be born like a wild ass`'s colt.
+____
 
 How strikingly is our ignorance manifested by our unwillingness
 to rest contented with things as they are,
@@ -6986,8 +7150,10 @@ to such movements as seem to be desirable.
 
 === CCLXXI
 
-[.blurb]
-=== Be renewed in the spirit of your mind. Ephesians 4:23
+[quote.scripture, , Ephesians 4:23]
+____
+Be renewed in the spirit of your mind.
+____
 
 John Foster says, "`most interesting idea that of renovated being!
 I am not the person I was.
@@ -7012,8 +7178,12 @@ and feel the power of the Spirit "`making all things new, and all things of God.
 
 === CCLXXII
 
-[.blurb]
-=== He that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating. And Moses said, let no man leave of it till morning. Exodus 16:18, 19
+[quote.scripture, , "Exodus 16:18,19"]
+____
+He that gathered much had nothing over, and he that gathered little had no lack;
+they gathered every man according to his eating.
+And Moses said, let no man leave of it till morning.
+____
 
 Attend diligently to the beautiful equality of all God`'s ways of influencing the soul,
 and the exactness with which the supplies of light are fitted to the need.
@@ -7032,8 +7202,14 @@ Turn not to the right hand nor to the left; remove thy foot from evil.`"
 
 === CCLXXIII
 
-[.blurb]
-=== When the poor and needy seek water, and there is none, and their tongue faileth for thirst, I the Lord will hear them, I the God of Israel will not forsake them. I will open rivers in high places, and fountains in the midst of the valleys; I will make the wilderness a pool of water, and the dry land springs of water. Isaiah 41:17-18
+[quote.scripture, , Isaiah 41:17-18]
+____
+When the poor and needy seek water, and there is none,
+and their tongue faileth for thirst, I the Lord will hear them,
+I the God of Israel will not forsake them.
+I will open rivers in high places, and fountains in the midst of the valleys;
+I will make the wilderness a pool of water, and the dry land springs of water.
+____
 
 There is a sense of desolation in being thrown entirely inward upon our own minds,
 which is quite overpowering to nature, and which no doubt is designed to be so.
@@ -7050,8 +7226,12 @@ take firm hold of such a comforting Scripture as this before us.
 
 === CCLXXIV
 
-[.blurb]
-=== The archers have sorely grieved him, and shot at him, and hated him. But his bow abode in strength, and the arms of his hands were made strong by the hands of the mighty God of Jacob. Genesis 49:23, 24
+[quote.scripture, , "Genesis 49:23,24"]
+____
+The archers have sorely grieved him, and shot at him, and hated him.
+But his bow abode in strength,
+and the arms of his hands were made strong by the hands of the mighty God of Jacob.
+____
 
 It is of the utmost importance never to give way to the tendency to despair,
 or to recklessness,
@@ -7070,8 +7250,10 @@ and to cleanse us from all unrighteousness.`"
 
 === CCLXXV
 
-[.blurb]
-=== He shall not cry, nor lift up, nor cause his voice to be heard in the street. Isaiah 42:2
+[quote.scripture, , Isaiah 42:2]
+____
+He shall not cry, nor lift up, nor cause his voice to be heard in the street.
+____
 
 Watch vigilantly against all sudden, vehement, impulsive feelings;
 but yield yourself undoubtingly to such as are tranquilizing, pure,
@@ -7095,8 +7277,11 @@ and everything that may befall you.
 
 === CCLXXVI
 
-[.blurb]
-=== Through the tender mercy of our God, whereby the dayspring from on high hath visited us. Luke 1:78
+[quote.scripture, , Luke 1:78]
+____
+Through the tender mercy of our God,
+whereby the dayspring from on high hath visited us.
+____
 
 The Scriptures are blessed helps in revealing to us what we stand in need of for goodness,
 and for peace.
@@ -7119,11 +7304,16 @@ and nothing shall offend them`" Psalm 119:165.
 
 === CCLXXVII
 
-[.blurb]
-=== A little one shall become a thousand, and a small one a strong nation. I the Lord will hasten it in his time. Isaiah 60:22
+[quote.scripture, , Isaiah 60:22]
+____
+A little one shall become a thousand, and a small one a strong nation.
+I the Lord will hasten it in his time.
+____
 
-[.blurb]
-=== Which indeed is the least of all seeds... Matthew 13:32
+[quote.scripture, , Matthew 13:32]
+____
+Which indeed is the least of all seeds...
+____
 
 Never can you too earnestly, or too frequently,
 remember that God`'s ways are just the opposite to man`'s ways.
@@ -7142,8 +7332,11 @@ and the small one to become a mighty nation.`"
 
 === CCLXXVIII
 
-[.blurb]
-=== And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God, and of the Lamb. Rev. 22:1
+[quote.scripture, , Rev. 22:1]
+____
+And he shewed me a pure river of water of life, clear as crystal,
+proceeding out of the throne of God, and of the Lamb.
+____
 
 There is a sense of divine truth typified in this language which,
 as matter of experience, is the same in kind, but various in degree,
@@ -7162,8 +7355,12 @@ and a present inheritance "`incorruptible, undefiled, and that fadeth not away.`
 
 === CCLXXIX
 
-[.blurb]
-=== Withhold thy foot from being unshod, and thy throat from thirst; but thou saidest, There is no hope; no; for I have loved strangers, and after them will I go. Jeremiah 2:25
+[quote.scripture, , Jeremiah 2:25]
+____
+Withhold thy foot from being unshod, and thy throat from thirst;
+but thou saidest, There is no hope; no;
+for I have loved strangers, and after them will I go.
+____
 
 What a profound truth is wrapt up in this mystical language!
 How close a figure is it of the wilful nature of the vain mind;
@@ -7186,8 +7383,10 @@ footnote:[Wisdom of Solomon 7:27]
 
 === CCLXXX
 
-[.blurb]
-=== Thou art more glorious and excellent than the mountains of prey. Psalm 76:4
+[quote.scripture, , Psalm 76:4]
+____
+Thou art more glorious and excellent than the mountains of prey.
+____
 
 How sweet is the _sense_ of God, in the feeling of purity, peace, and love,
 which sometimes steals upon the soul with the gentleness of falling dew!
@@ -7209,8 +7408,11 @@ And never expect happiness from any other source; for what can any other source 
 
 === CCLXXXI
 
-[.blurb]
-=== But God forbid that I should glory, save in the cross of our Lord Jesus Christ; by whom the world is crucified unto me, and I unto the world. Galatians 6:14
+[quote.scripture, , Galatians 6:14]
+____
+But God forbid that I should glory, save in the cross of our Lord Jesus Christ;
+by whom the world is crucified unto me, and I unto the world.
+____
 
 Dwell on the spiritual meaning of these remarkable words; and try to experience deeply,
 and inwardly, their life-giving power.
@@ -7227,8 +7429,11 @@ but working a work of errors, and lying down in confusion and grief!
 
 === CCLXXXII
 
-[.blurb]
-=== Man doth not live by bread alone, but by every word that proceedeth out of the mouth of God. Deut. 8:3
+[quote.scripture, , Deut. 8:3]
+____
+Man doth not live by bread alone,
+but by every word that proceedeth out of the mouth of God.
+____
 
 What is it that affords me a distinct sense and feeling that my
 soul is actually fed and nourished with some real goodness?
@@ -7251,8 +7456,10 @@ it is to live and grow by words that "`proceed out of the mouth of God.`"
 
 === CCLXXXIII
 
-[.blurb]
-=== Your heart shall live, that seek God. Psalm 69:32
+[quote.scripture, , Psalm 69:32]
+____
+Your heart shall live, that seek God.
+____
 
 There is a heart which is dead in trespasses and sins,
 and which can never be in any other state than death towards God,
@@ -7274,8 +7481,10 @@ that the heart does live that seeks God.
 
 === CCLXXXIV
 
-[.blurb]
-=== He is the living God, and steadfast forever. Daniel 6:26
+[quote.scripture, , Daniel 6:26]
+____
+He is the living God, and steadfast forever.
+____
 
 The unchangeableness of God is the rock upon which the wise man builds his house.
 And oh, how safe and secure is it to dwell within the habitation thus firmly established!
@@ -7297,8 +7506,12 @@ for it is the centralizing force which alone can keep you moving in the orbit of
 
 === CCLXXXV
 
-[.blurb]
-=== Is not this the fast that I have chosen; to loose the bands of wickedness, to undo the heavy burdens, and to let the oppressed go free, and that ye break every yoke? Isaiah 58:6
+[quote.scripture, , Isaiah 58:6]
+____
+Is not this the fast that I have chosen;
+to loose the bands of wickedness, to undo the heavy burdens,
+and to let the oppressed go free, and that ye break every yoke?
+____
 
 All that proceeds merely from self-will, is defiled and profitless.
 Its religious services, equally with its worldly pleasures, are worth nothing;
@@ -7317,8 +7530,13 @@ and break every yoke that chains thee in captivity to sin, and self, and Satan.
 
 === CCLXXXVI
 
-[.blurb]
-=== He transgresseth by wine; he is a proud man, neither keepeth at home, who enlargeth his desire as hell, and is as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people... Shall they not rise up suddenly that shall bite thee, and awake that shall vex thee? Habakkuk 2:5, 7
+[quote.scripture, , "Habakkuk 2:5,7"]
+____
+He transgresseth by wine; he is a proud man, neither keepeth at home,
+who enlargeth his desire as hell, and is as death, and cannot be satisfied,
+but gathereth unto him all nations, and heapeth unto him all people...
+Shall they not rise up suddenly that shall bite thee, and awake that shall vex thee?
+____
 
 How forcibly is the inordinate and ravening covetousness
 of the fallen nature of man set forth in these words!
@@ -7340,8 +7558,10 @@ is to be safe; and no safety can be found in any other procedure.
 
 === CCLXXXVII
 
-[.blurb]
-=== Order my steps in thy word, and let not any iniquity have dominion over me. Psalm 119:133
+[quote.scripture, , Psalm 119:133]
+____
+Order my steps in thy word, and let not any iniquity have dominion over me.
+____
 
 We lose much in reading the Scriptures,
 from not observing the graphic force with which great truths are enunciated in few words.
@@ -7362,8 +7582,10 @@ the minute and momentary movements which fix thee in the everlasting I AM.
 
 === CCLXXXVIII
 
-[.blurb]
-=== To be carnally minded is death; but to be spiritually minded is life and peace. Romans 8:6
+[quote.scripture, , Romans 8:6]
+____
+To be carnally minded is death; but to be spiritually minded is life and peace.
+____
 
 The world is rich in a variety of pleasures, and in an undiminishing fund of amusements,
 toys, games, sports, and contrivances to cheat care, and beguile the time;
@@ -7385,8 +7607,12 @@ to those that are not seen, and which are eternal.
 
 === CCLXXXIX
 
-[.blurb]
-=== Though I walk in the midst of trouble, thou wilt revive me; thou shalt stretch forth thine hand against the wrath of mine enemies, and thy right hand shall save me. Psalm 138:7
+[quote.scripture, , Psalm 138:7]
+____
+Though I walk in the midst of trouble, thou wilt revive me;
+thou shalt stretch forth thine hand against the wrath of mine enemies,
+and thy right hand shall save me.
+____
 
 There are sharp exercises to be borne, and severe anguish to be experienced,
 in the breaking down of the stiff and stubborn nature of self.
@@ -7406,8 +7632,11 @@ and his right hand shall save us from the wrath of all our foes.
 
 === CCXC
 
-[.blurb]
-=== I will seek that which was lost, and I will bring again that which was driven away, and will bind up that which was broken, and will strengthen that which was sick. Ezekiel 34:16
+[quote.scripture, , Ezekiel 34:16]
+____
+I will seek that which was lost, and I will bring again that which was driven away,
+and will bind up that which was broken, and will strengthen that which was sick.
+____
 
 How lost, and driven away,
 how crushed and broken under the headstrong violence of the fleshly will and nature,
@@ -7432,8 +7661,12 @@ Contemplate this, and be humbled in grief,
 
 === CCXCI
 
-[.blurb]
-=== In Judah is God known; his name is great in Israel. In Salem also is his tabernacle, and his dwelling place in Zion. There brake he the arrows of the bow, the shield, and the sword, and the battle. Psalm 76:1-3
+[quote.scripture, , Psalm 76:1-3]
+____
+In Judah is God known; his name is great in Israel.
+In Salem also is his tabernacle, and his dwelling place in Zion.
+There brake he the arrows of the bow, the shield, and the sword, and the battle.
+____
 
 In the holy, serene, humble seed of His own divine nature,
 God is to be sought and diligently waited for.
@@ -7453,8 +7686,10 @@ and at the rebuke of the God of Jacob are cast into the sleep of death.
 
 === CCXCII
 
-[.blurb]
-=== Thou shalt forget thy misery, and remember it as waters that pass away. Job 11:16
+[quote.scripture, , Job 11:16]
+____
+Thou shalt forget thy misery, and remember it as waters that pass away.
+____
 
 Musing just now upon a letter written more than fifty years ago,
 to a person under deep trial and affliction,
@@ -7479,8 +7714,11 @@ and how safe and soothing for the creature!
 
 === CCXCIII
 
-[.blurb]
-=== Thou shalt know that thy tabernacles shall be in peace; and thou shalt visit thy habitation, and shalt not sin (err, margin). Job 5:24
+[quote.scripture, , Job 5:24]
+____
+Thou shalt know that thy tabernacles shall be in peace;
+and thou shalt visit thy habitation, and shalt not sin (err, margin).
+____
 
 Everything external to us is nothing but a shadow;
 and whilst "`walking in this vain shew`" we do, indeed, disquiet ourselves in vain.
@@ -7502,8 +7740,11 @@ without error in missing the way.
 
 === CCXCIV
 
-[.blurb]
-=== The young lions do lack and suffer hunger; but they that seek the Lord, shall not want any good thing. Psalm 34:10
+[quote.scripture, , Psalm 34:10]
+____
+The young lions do lack and suffer hunger;
+but they that seek the Lord, shall not want any good thing.
+____
 
 Know _that_ in your own nature which is appointed of God to suffer hunger, and to die.
 It is the fierce, wild, ravenous appetite of self-hood; which,
@@ -7522,8 +7763,11 @@ and which brings the nature of heaven into the soul that feeds upon it.
 
 === CCXCV
 
-[.blurb]
-=== When Israel was a child, then I loved him, and called my son out of Egypt... I taught Ephraim also to walk. Hosea 11:1, 3
+[quote.scripture, , "Hosea 11:1,3"]
+____
+When Israel was a child, then I loved him, and called my son out of Egypt...
+I taught Ephraim also to walk.
+____
 
 All that is of God, is exceedingly meek, simple, pure, and tender.
 His divine and loving Spirit,
@@ -7543,11 +7787,15 @@ out of the bondage in which you are kept to the flesh and to the world.
 
 === CCXCVI
 
-[.blurb]
-=== My times are in thy hand. Psalm 31:15
+[quote.scripture, , Psalm 31:15]
+____
+My times are in thy hand.
+____
 
-[.blurb]
-=== What time I am afraid, I will trust in thee. Psalm 56:3
+[quote.scripture, , Psalm 56:3]
+____
+What time I am afraid, I will trust in thee.
+____
 
 Seeing that "`times are not hid from the Almighty,`"
 the duty of the believer is always to trust in him.
@@ -7571,8 +7819,10 @@ let him do what seemeth to him good.`"
 
 === CCXCVII
 
-[.blurb]
-=== I have learned in whatsoever state I am, therewith to be content. Philippians 4:11
+[quote.scripture, , Philippians 4:11]
+____
+I have learned in whatsoever state I am, therewith to be content.
+____
 
 Oh, my soul, be strong, be steadfast, and learn with the Apostle this divine lesson;
 and know well how and of whom, thou hast been taught it.
@@ -7593,8 +7843,12 @@ and which the heart that his grace has sanctified alone can learn.
 
 === CCXCVIII
 
-[.blurb]
-=== Thy paths drop fatness. They drop upon the pastures of the wilderness, and the little hills rejoice on every side. Psalm 65:11, 12
+[quote.scripture, , "Psalm 65:11,12"]
+____
+Thy paths drop fatness.
+They drop upon the pastures of the wilderness,
+and the little hills rejoice on every side.
+____
 
 This beautiful imagery exhibits the entirely full
 and satisfying nature of the Divine Being,
@@ -7625,8 +7879,11 @@ Oulita the Serf, p. 9.
 
 === CCXCIX
 
-[.blurb]
-=== Thou hast thrust sore at me that I might fall; but the Lord helped me. Psalm 118:13
+[quote.scripture, , Psalm 118:13]
+____
+Thou hast thrust sore at me that I might fall;
+but the Lord helped me.
+____
 
 With respect to our appointed trials, it is hard to say which are the most oppressive,
 those that afflict the body, or those that distress the soul.
@@ -7648,8 +7905,11 @@ put down those that thrust sore at thee, and will help thee.
 
 === CCC
 
-[.blurb]
-=== The backslider in heart shall be filled with his own ways; and a good man shall be satisfied from himself. Proverbs 14:14
+[quote.scripture, , Proverbs 14:14]
+____
+The backslider in heart shall be filled with his own ways;
+and a good man shall be satisfied from himself.
+____
 
 It is by suffering ourselves to slide back into old thoughts and habits of mind,
 that we get so filled with our own ways,
@@ -7673,8 +7933,11 @@ whose "`ways are ways of pleasantness, and all whose paths are peace.`"
 
 === CCCI
 
-[.blurb]
-=== My soul cleaveth unto the dust; quicken thou me according to thy word. Psalm 119:25
+[quote.scripture, , Psalm 119:25]
+____
+My soul cleaveth unto the dust;
+quicken thou me according to thy word.
+____
 
 Who is there that sincerely desires to be "`cleansed from secret faults,`" that
 does not well,--and _too well_ feel the force of these words of the Psalmist?
@@ -7695,8 +7958,12 @@ and quicken thee to a new and holy life, "`according to his word.`"
 
 === CCCII
 
-[.blurb]
-=== They waited not for his counsel; but lusted exceedingly in the wilderness... And he gave them their request, but sent leanness into their soul. Psalm 106:13, etc.
+[quote.scripture, , "Psalm 106:13, etc."]
+____
+They waited not for his counsel;
+but lusted exceedingly in the wilderness...
+And he gave them their request, but sent leanness into their soul.
+____
 
 Always stand on your guard against that ruinous haste to act which is
 _sure_ to beset the mind when any tempting object is presented to it.
@@ -7722,8 +7989,12 @@ or you will not pass through it honourably.
 
 === CCCIII
 
-[.blurb]
-=== Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind; for he that hath suffered in the flesh, hath ceased from sin. 1 Peter 4:1
+[quote.scripture, , 1 Peter 4:1]
+____
+Forasmuch then as Christ hath suffered for us in the flesh,
+arm yourselves likewise with the same mind;
+for he that hath suffered in the flesh, hath ceased from sin.
+____
 
 Everything desirable has its price; and it is well said by some author,
 that "`the pleasures of virtue are paid for beforehand; and those of the world,
@@ -7742,8 +8013,10 @@ and the suffering which its death involves will be greatly lessened.
 
 === CCCIV
 
-[.blurb]
-=== Offer the sacrifices of righteousness, and put your trust in the Lord. Psalm 4:5
+[quote.scripture, , Psalm 4:5]
+____
+Offer the sacrifices of righteousness, and put your trust in the Lord.
+____
 
 In coming to wait upon God in silence,
 we must be prepared to offer the sacrifices of righteousness in the firm and
@@ -7767,8 +8040,11 @@ Gird up then thy loins, and put on strength; even the strength of God who is thy
 
 === CCCV
 
-[.blurb]
-=== Wherefore criest thou unto me? Speak unto the children of Israel that they go forward. Exodus 14:15
+[quote.scripture, , Exodus 14:15]
+____
+Wherefore criest thou unto me?
+Speak unto the children of Israel that they go forward.
+____
 
 This matter of "`going forward`" is of immense value and importance.
 // lint-disable scan-errors "bird-lime"
@@ -7795,8 +8071,10 @@ ____
 
 === CCCVI
 
-[.blurb]
-=== The fire shall try every man`'s work, of what sort it is. 1 Cor. 3:13
+[quote.scripture, , 1 Cor. 3:13]
+____
+The fire shall try every man`'s work, of what sort it is.
+____
 
 We are told that "`gold is tried in the fire,
 and acceptable men in the furnace of adversity;`" and the experience
@@ -7819,8 +8097,11 @@ there is the disengaged mind which is best fitted to endure it with simplicity a
 
 === CCCVII
 
-[.blurb]
-=== A divine sentence is in the lips of the king: his mouth transgresseth not in judgment. Proverbs 16:10
+[quote.scripture, , Proverbs 16:10]
+____
+A divine sentence is in the lips of the king:
+his mouth transgresseth not in judgment.
+____
 
 "`God sitteth as a King forever.`"
 To believe this as an influential truth,
@@ -7845,8 +8126,11 @@ and be exceeding glad of his salvation.`"
 
 === CCCVIII
 
-[.blurb]
-=== Pleasant words are as an honeycomb; sweet to the soul and health to the bones. Proverbs 16:24
+[quote.scripture, , Proverbs 16:24]
+____
+Pleasant words are as an honeycomb;
+sweet to the soul and health to the bones.
+____
 
 It is grievous to think what devastation is often made amongst the Lord`'s
 "`pleasant plants,`" by inattention to the mode of speaking.
@@ -7870,8 +8154,13 @@ and health to the bones!`"
 
 === CCCIX
 
-[.blurb]
-=== For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent. Where is the wise? where is the scribe? where is the disputer of this world? hath not God made foolish the wisdom of this world? 1 Cor. 1:19-20
+[quote.scripture, , 1 Cor. 1:19-20]
+____
+For it is written, I will destroy the wisdom of the wise,
+and will bring to nothing the understanding of the prudent.
+Where is the wise? where is the scribe? where is the disputer of this world?
+hath not God made foolish the wisdom of this world?
+____
 
 "`The wisdom of this world is foolishness with God;`"
 let it then be as foolishness to us,
@@ -7892,8 +8181,11 @@ the moment it admits anything like an argument about what is presented to it.
 
 === CCCX
 
-[.blurb]
-=== The meek shall increase their joy in the Lord, and the poor among men shall rejoice in the Holy One of Israel. Isaiah 29:19
+[quote.scripture, , Isaiah 29:19]
+____
+The meek shall increase their joy in the Lord,
+and the poor among men shall rejoice in the Holy One of Israel.
+____
 
 Nothing that has not the stamp of permanence upon it,
 can possibly satisfy the soul of man; because what is transitory,
@@ -7915,8 +8207,10 @@ and rejoice in the Holy One of Israel.`"
 
 === CCCXI
 
-[.blurb]
-=== Let thine eyes look right on, and let thine eyelids look straight before thee. Proverbs 4:25
+[quote.scripture, , Proverbs 4:25]
+____
+Let thine eyes look right on, and let thine eyelids look straight before thee.
+____
 
 There is a power in concentrativeness to spiritualize the mind,
 which is totally inconceivable till it has been experimentally understood.
@@ -7936,8 +8230,12 @@ and perceive the value of acquiring the habit of looking _right on._
 
 === CCCXII
 
-[.blurb]
-=== But of him are ye in Christ Jesus; who of God is made unto us wisdom, and righteousness, and sanctification and redemption. 1 Cor. 1:30
+[quote.scripture, , 1 Cor. 1:30]
+____
+But of him are ye in Christ Jesus;
+who of God is made unto us wisdom, and righteousness,
+and sanctification and redemption.
+____
 
 Saint Paul speaks of "`the righteousness which is of God by faith.`"
 Now, there must be a precise, well defined, well understood object of faith,
@@ -7960,8 +8258,11 @@ and making us "`vessels sanctified and meet for the master`'s use.`"
 
 === CCCXIII
 
-[.blurb]
-=== I lead in the way of righteousness, in the midst of the paths of judgment; That I may cause those that love me to inherit substance, and I will fill their treasures. Proverbs 8:20-21
+[quote.scripture, , Proverbs 8:20-21]
+____
+I lead in the way of righteousness, in the midst of the paths of judgment;
+That I may cause those that love me to inherit substance, and I will fill their treasures.
+____
 
 "`Doth not wisdom cry, and understanding put forth her voice?`"
 Indeed they do; but alas, too often in vain!
@@ -7980,8 +8281,11 @@ she does truly "`cause those that love her to inherit substance.`"
 
 === CCCXIV
 
-[.blurb]
-=== Every wise woman buildeth her house; but the foolish plucketh it down with her hands. Proverbs 14:1
+[quote.scripture, , Proverbs 14:1]
+____
+Every wise woman buildeth her house;
+but the foolish plucketh it down with her hands.
+____
 
 Under the figure of a female,
 it is not uncommon for the writers of the Old Testament
@@ -8004,8 +8308,10 @@ as fast as it learns, plucks down, and scatters all that is given to it.
 
 === CCCXV
 
-[.blurb]
-=== Behold the Lamb of God, which taketh away the sin of the world! John 1:29
+[quote.scripture, , John 1:29]
+____
+Behold the Lamb of God, which taketh away the sin of the world!
+____
 
 I do behold thee with the eye of faith, my Lord, and my God!
 It is the sustenance of my soul, my joy, my consolation, my rock of support,
@@ -8025,8 +8331,10 @@ and comely with the comeliness that he doth put upon me!
 
 === CCCXVI
 
-[.blurb]
-=== Remove far from me vanity and lies. Proverbs 30:8
+[quote.scripture, , Proverbs 30:8]
+____
+Remove far from me vanity and lies.
+____
 
 It is deeply instructive to observe, and to stay awhile upon the observation,
 how exactly the enlightened mind aims at the same point,
@@ -8054,8 +8362,11 @@ Keep the inward eye, therefore, single and sincere, that it may be full of light
 
 === CCCXVII
 
-[.blurb]
-=== The name of the Lord is a strong tower, the righteous runneth into it and is safe. Proverbs 18:10
+[quote.scripture, , Proverbs 18:10]
+____
+The name of the Lord is a strong tower,
+the righteous runneth into it and is safe.
+____
 
 "`The name of the Lord`" is a Scriptural expression of very frequent occurrence;
 and it behooves us clearly to understand what it signifies.
@@ -8076,8 +8387,11 @@ and is saved from all evil, and all danger.
 
 === CCCXVIII
 
-[.blurb]
-=== To deliver thee from the strange woman, even from the stranger which flattereth with her words. Proverbs 2:16
+[quote.scripture, , Proverbs 2:16]
+____
+To deliver thee from the strange woman,
+even from the stranger which flattereth with her words.
+____
 
 It is a vast matter to be delivered from that insidious Babylonish spirit,
 which deceiveth the whole world; "`the strange woman which flattereth with her words.`"
@@ -8100,8 +8414,12 @@ the lying spirit that worketh in the children of disobedience.
 
 === CCCXIX
 
-[.blurb]
-=== My beloved is gone down into his garden, to the beds of spices; to feed in the gardens and to gather lilies. I am my beloved`'s, and my beloved is mine; he feedeth among the lilies. Canticles 6:2-3
+[quote.scripture, , Canticles 6:2-3]
+____
+My beloved is gone down into his garden, to the beds of spices;
+to feed in the gardens and to gather lilies.
+I am my beloved`'s, and my beloved is mine; he feedeth among the lilies.
+____
 
 There is only one tie that can link the soul of the
 creature to the Creator in a union of joy,
@@ -8121,8 +8439,11 @@ which His own grace has planted.
 
 === CCCXX
 
-[.blurb]
-=== The Lord God is a sun and shield; the Lord will give grace and glory; no good thing will he withhold from them that walk uprightly. Psalm 84:11
+[quote.scripture, , Psalm 84:11]
+____
+The Lord God is a sun and shield; the Lord will give grace and glory;
+no good thing will he withhold from them that walk uprightly.
+____
 
 A sun to enlighten, a shield to protect, such is the Lord God with whom we have to do.
 "`No good thing will He withhold from those that walk uprightly;`" although in His wisdom
@@ -8143,8 +8464,10 @@ to secure Thy favour and protection!
 
 === CCCXXI
 
-[.blurb]
-=== Wisdom and knowledge shall be the stability of thy times, and strength of salvation. Isaiah 33:6
+[quote.scripture, , Isaiah 33:6]
+____
+Wisdom and knowledge shall be the stability of thy times, and strength of salvation.
+____
 
 It is for the most part but a low and obscure idea of salvation that persons entertain;
 though, when rightly understood,
@@ -8163,8 +8486,10 @@ and can distinctly recognize the strength of our salvation.
 
 === CCCXXII
 
-[.blurb]
-=== Thou art beautiful, O my love! Canticles 6:4
+[quote.scripture, , Canticles 6:4]
+____
+Thou art beautiful, O my love!
+____
 
 How exquisite is moral beauty!
 Indefinable, but soul-satisfying, how divine is it!
@@ -8186,8 +8511,12 @@ and thy countenance is comely!`"
 
 === CCCXXIII
 
-[.blurb]
-=== Judgment also will I lay to the line, and righteousness to the plummet; and the hail shall sweep away the refuge of lies, and the waters shall overflow the hiding place. Isaiah 28:17
+[quote.scripture, , Isaiah 28:17]
+____
+Judgment also will I lay to the line, and righteousness to the plummet;
+and the hail shall sweep away the refuge of lies,
+and the waters shall overflow the hiding place.
+____
 
 There is a time when judgment is sure to overtake us,
 and when all our "`pleasant pictures,`" all our temporal and transitory resources,
@@ -8205,8 +8534,12 @@ and we know that a work of death must be a work of pain.
 
 === CCCXXIV
 
-[.blurb]
-=== The kingdom of Heaven is like to treasure hid in a field; the which when a man hath found, he hideth, and for joy thereof goeth, and selleth all that he hath, and buyeth that field. Matthew 13:44
+[quote.scripture, , Matthew 13:44]
+____
+The kingdom of Heaven is like to treasure hid in a field;
+the which when a man hath found, he hideth, and for joy thereof goeth,
+and selleth all that he hath, and buyeth that field.
+____
 
 The "`treasure hid in a field,`" which is the joy of the soul that finds it,
 is only overlooked because of its nearness, and because of what we, in our ignorance,
@@ -8226,8 +8559,13 @@ whereby we can be made partakers of the divine nature.
 
 === CCCXXV
 
-[.blurb]
-=== Every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved. But he that doeth truth cometh to the light; that his deeds may be made manifest, that they are wrought in God. John 3:20-21
+[quote.scripture, , John 3:20-21]
+____
+Every one that doeth evil hateth the light, neither cometh to the light,
+lest his deeds should be reproved.
+But he that doeth truth cometh to the light; that his deeds may be made manifest,
+that they are wrought in God.
+____
 
 We have the means of genuine happiness in our own hands, if we choose to seek for them.
 They do not, indeed, lie upon the surface; neither are they found without diligent search.
@@ -8245,8 +8583,11 @@ which is always in unity with Him.
 
 === CCCXXVI
 
-[.blurb]
-=== I said I will take heed to my ways, that I sin not with my tongue; I will keep my mouth with a bridle, while the wicked is before me. Psalm 39:1
+[quote.scripture, , Psalm 39:1]
+____
+I said I will take heed to my ways, that I sin not with my tongue;
+I will keep my mouth with a bridle, while the wicked is before me.
+____
 
 It is not from the bodily tongue that the chief danger of sin is to be feared,
 but from that inward member which so often holds parley
@@ -8267,8 +8608,10 @@ be dreaded as wicked thoughts?) is before us.
 
 === CCCXXVII
 
-[.blurb]
-=== Blessed are the poor in spirit, for theirs is the kingdom of heaven. Matthew 5:3
+[quote.scripture, , Matthew 5:3]
+____
+Blessed are the poor in spirit, for theirs is the kingdom of heaven.
+____
 
 Those who have "`tasted that the Lord is gracious,`" will
 be unanimous in testifying that it is poverty of spirit,
@@ -8294,8 +8637,11 @@ and to these only as they are sanctified by meekness and humility.
 
 === CCCXXVIII
 
-[.blurb]
-=== We all, with open face, beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord. 2 Cor. 3:18
+[quote.scripture, , 2 Cor. 3:18]
+____
+We all, with open face, beholding as in a glass the glory of the Lord,
+are changed into the same image from glory to glory, even as by the Spirit of the Lord.
+____
 
 The subjects which engage the attention, and attract the affections of the human being,
 have a secret potency in stamping an image or reflection of themselves upon his nature.
@@ -8313,8 +8659,12 @@ and proceed "`from glory to glory, as by the Spirit of the Lord.`"
 
 === CCCXXIX
 
-[.blurb]
-=== Blessed is the man that endureth temptation, for when he is tried he shall receive the crown of life which the Lord hath promised to them that love him. James 1:12
+[quote.scripture, , James 1:12]
+____
+Blessed is the man that endureth temptation,
+for when he is tried he shall receive the crown of life
+which the Lord hath promised to them that love him.
+____
 
 The wonderful labyrinth of evil in which we find ourselves, is, when rightly understood,
 but the dark background to infinite good.
@@ -8339,8 +8689,10 @@ the Lord has in store for him in another and a happier stage of existence.
 
 === CCCXXX
 
-[.blurb]
-=== Knowledge puffeth up, but charity edifieth. 1 Cor. 8:1
+[quote.scripture, , 1 Cor. 8:1]
+____
+Knowledge puffeth up, but charity edifieth.
+____
 
 It is worthy of remark that the first temptation presented to the human race,
 came in the form of a promise of the gift of knowledge: "`Ye shall be as gods,
@@ -8363,8 +8715,12 @@ is greatly a stranger upon the earth.
 
 === CCCXXXI
 
-[.blurb]
-=== Thus saith the Lord thy Redeemer, the Holy One of Israel; I am the Lord thy God which teacheth thee to profit, which leadeth thee by the way that thou shouldest go. Isaiah 48:17
+[quote.scripture, , Isaiah 48:17]
+____
+Thus saith the Lord thy Redeemer, the Holy One of Israel;
+I am the Lord thy God which teacheth thee to profit,
+which leadeth thee by the way that thou shouldest go.
+____
 
 The lessons of instruction from our Redeemer the Holy One of Israel,
 by which he "`teacheth us to profit,`" are to be observed as it respects us personally,
@@ -8383,8 +8739,10 @@ and much patience before taking steps in life, we may certainly consider it.
 
 === CCCXXXII
 
-[.blurb]
-=== A just weight and balance are the Lord`'s. Proverbs 16:11
+[quote.scripture, , Proverbs 16:11]
+____
+A just weight and balance are the Lord`'s.
+____
 
 It is remarkable that,
 while some degree of trouble in practising the rules
@@ -8409,8 +8767,11 @@ balanced in the way of uprightness and integrity.
 
 === CCCXXXIII
 
-[.blurb]
-=== Strengthened with all might according to his glorious power, unto all patience, and longsuffering with joyfulness. Colossians 1:11
+[quote.scripture, , Colossians 1:11]
+____
+Strengthened with all might according to his glorious power, unto all patience,
+and longsuffering with joyfulness.
+____
 
 The vast problem of the origin and prevalence of evil, it is not ours to solve,
 but to sustain.
@@ -8429,8 +8790,11 @@ and consolation of the most sustaining kind.
 
 === CCCXXXIV
 
-[.blurb]
-=== O send out thy light and thy truth, let them lead me; let them bring me unto thy holy hill, and to thy tabernacle. Psalm 43:3
+[quote.scripture, , Psalm 43:3]
+____
+O send out thy light and thy truth, let them lead me;
+let them bring me unto thy holy hill, and to thy tabernacle.
+____
 
 How precious is it when the soul can sincerely breathe this
 Heavenly prayer! and what need hinder it of this holy desire?
@@ -8451,8 +8815,12 @@ O Fountain of Truth! that they may guide me to thy dwelling-place in my soul.
 
 === CCCXXXV
 
-[.blurb]
-=== How amiable are thy tabernacles, O Lord of Hosts! My soul longeth, yea, even fainteth for the courts of the Lord; my heart and my flesh crieth out for the living God. Psalm 84:1-2
+[quote.scripture, , Psalm 84:1-2]
+____
+How amiable are thy tabernacles, O Lord of Hosts!
+My soul longeth, yea, even fainteth for the courts of the Lord;
+my heart and my flesh crieth out for the living God.
+____
 
 It is in the inner sanctuary of the believer`'s heart, that this amiable,
 this lovely tabernacle which David panted after is to be found.
@@ -8473,8 +8841,10 @@ He creates the want, that He may enjoy the blessedness of granting the supply.
 
 === CCCXXXVI
 
-[.blurb]
-=== Sanctify them through thy truth; thy word is truth. John 17:17
+[quote.scripture, , John 17:17]
+____
+Sanctify them through thy truth; thy word is truth.
+____
 
 The knowledge of truth is the very highest blessing that the human being can receive.
 But now, as in the days of old, and as in all time, the query has to be made,
@@ -8500,8 +8870,11 @@ whereby those who are _out_ of the truth, are perpetually ensnared.
 
 === CCCXXXVII
 
-[.blurb]
-=== If any man be in Christ, he is a new creature; old things are passed away, behold, all things are become new. 2 Cor. 5:17
+[quote.scripture, , 2 Cor. 5:17]
+____
+If any man be in Christ, he is a new creature; old things are passed away, behold,
+all things are become new.
+____
 
 If the work of religion were merely that which the
 greater part of persons seem to imagine it,
@@ -8523,8 +8896,12 @@ Such queries as these faithfully replied to, would help us to much useful self-k
 
 === CCCXXXVIII
 
-[.blurb]
-=== I waited patiently for the Lord, and He inclined unto me, and heard my cry. He brought me up also, out of an horrible pit, out of the miry clay, and set my feet upon a rock, and ordered my goings. Psalm 40:1-2
+[quote.scripture, , Psalm 40:1-2]
+____
+I waited patiently for the Lord, and He inclined unto me, and heard my cry.
+He brought me up also, out of an horrible pit, out of the miry clay,
+and set my feet upon a rock, and ordered my goings.
+____
 
 In these two verses of Scripture we are presented with a graphic picture of soul experience;
 and one which must be well understood, and deeply sympathized with,
@@ -8544,8 +8921,14 @@ Amen!
 
 === CCCXXXIX
 
-[.blurb]
-=== And though the Lord give you the bread of adversity, and the water of affliction, yet shall not thy teachers be removed into a corner any more; but thine eyes shall see thy teachers; and thine ears shall hear a word behind thee saying, This is the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left. Isaiah 30:20-21
+[quote.scripture, , Isaiah 30:20-21]
+____
+And though the Lord give you the bread of adversity, and the water of affliction,
+yet shall not thy teachers be removed into a corner any more;
+but thine eyes shall see thy teachers;
+and thine ears shall hear a word behind thee saying, This is the way, walk ye in it,
+when ye turn to the right hand, and when ye turn to the left.
+____
 
 The bread of adversity, and the water of affliction, are God`'s medicines;
 and happy are those who receive them as such from
@@ -8561,8 +8944,10 @@ and never skilful in discerning what these teachers say to them.
 
 === CCCXL
 
-[.blurb]
-=== That was the true light which lighteth every man that cometh into the world. John 1:9
+[quote.scripture, , John 1:9]
+____
+That was the true light which lighteth every man that cometh into the world.
+____
 
 In every human being that is at all raised by civilization above savage life,
 there is something to be perceived in his mind which
@@ -8585,8 +8970,15 @@ it had not something bestowed upon it that was wiser and better than itself.
 
 === CCCXLI
 
-[.blurb]
-=== O Lord, are not thine eyes upon the truth? Thou hast stricken them, but they have not grieved; thou hast consumed them, but they have refused to receive correction; they have made their faces harder than a rock; they have refused to return. Therefore I said, surely these are poor; they are foolish, for they know not the way of the Lord, nor the judgment of their God. Jeremiah 5:3-4
+[quote.scripture, , Jeremiah 5:3-4]
+____
+O Lord, are not thine eyes upon the truth?
+Thou hast stricken them, but they have not grieved; thou hast consumed them,
+but they have refused to receive correction;
+they have made their faces harder than a rock; they have refused to return.
+Therefore I said, surely these are poor; they are foolish,
+for they know not the way of the Lord, nor the judgment of their God.
+____
 
 "`Whom the Lord loves, He chastens;`" and there is no loss so totally grievous,
 as losing the benefit which He designs us in the visitation of affliction.
@@ -8601,8 +8993,11 @@ lie down in deep humility beneath the stroke.
 
 === CCCXLII
 
-[.blurb]
-=== The peace of God which passeth all understanding, shall keep your hearts and minds through Christ Jesus. Philippians 4:7
+[quote.scripture, , Philippians 4:7]
+____
+The peace of God which passeth all understanding,
+shall keep your hearts and minds through Christ Jesus.
+____
 
 We lose much of the power and beauty of this divine Scripture,
 from our being so familiar with it as the form of
@@ -8623,8 +9018,11 @@ garrisoned, as it were, in immovable tranquillity.
 
 === CCCXLIII
 
-[.blurb]
-=== How are they brought into desolation as in a moment! they are utterly consumed with terrors. Psalm 73:19
+[quote.scripture, , Psalm 73:19]
+____
+How are they brought into desolation as in a moment!
+they are utterly consumed with terrors.
+____
 
 No desolation is so terrible as that of being without any knowledge of God.
 Yet, alas! this is the condition of the greater part of the human race.
@@ -8645,8 +9043,11 @@ suffers the soul that trusts in him to be desolate.
 
 === CCCXLIV
 
-[.blurb]
-=== The highway of the upright is to depart from evil; he that keepeth his way, preserveth his soul. Proverbs 16:17
+[quote.scripture, , Proverbs 16:17]
+____
+The highway of the upright is to depart from evil; he that keepeth his way,
+preserveth his soul.
+____
 
 We are placed between good and evil, between life and death, flesh and spirit;
 and one or the other of these has the dominion over us.
@@ -8667,8 +9068,11 @@ to avoid it, to pass not near it, but to keep our souls from all contact with it
 
 === CCCXLV
 
-[.blurb]
-=== And my people shall dwell in a peaceable habitation, and in sure dwellings, and in quiet resting-places. Isaiah 32:18
+[quote.scripture, , Isaiah 32:18]
+____
+And my people shall dwell in a peaceable habitation, and in sure dwellings,
+and in quiet resting-places.
+____
 
 There is a deep response in every reflecting mind to the entire
 satisfaction which these words promise to the servant of the Lord.
@@ -8688,8 +9092,10 @@ and as an object of hope hereafter.
 
 === CCCXLVI
 
-[.blurb]
-=== O Lord, by these things men live; and in all these things is the life of my spirit. Isaiah 38:16
+[quote.scripture, , Isaiah 38:16]
+____
+O Lord, by these things men live; and in all these things is the life of my spirit.
+____
 
 What were these things in which Hezekiah found the life of his spirit?
 Were they not just those things which are the destruction of the flesh,
@@ -8713,8 +9119,10 @@ by these things men live!`"
 
 === CCCXLVII
 
-[.blurb]
-=== That he might sanctify and cleanse it with the washing of water by the word. Eph. 5:26
+[quote.scripture, , Eph. 5:26]
+____
+That he might sanctify and cleanse it with the washing of water by the word.
+____
 
 The Word of God _inwardly_ cleansing the soul "`from all its filthiness,
 and from all its idols,`" is just the whole life
@@ -8735,8 +9143,12 @@ the flesh, and the devil.
 
 === CCCXLVIII
 
-[.blurb]
-=== Whosoever drinketh of the water that I shall give him, shall never thirst; but the water that I shall give him, shall be in him a well of water springing up unto everlasting life. John 4:14
+[quote.scripture, , John 4:14]
+____
+Whosoever drinketh of the water that I shall give him, shall never thirst;
+but the water that I shall give him,
+shall be in him a well of water springing up unto everlasting life.
+____
 
 The soul which has been favoured to know the blessedness of "`a time of
 refreshing from the presence of the Lord,`" can understand these words,
@@ -8758,8 +9170,10 @@ things as the divine communications of God`'s Holy Spirit!
 
 === CCCXLIX
 
-[.blurb]
-=== We know that all things work together for good, to them that love God. Romans 8:28
+[quote.scripture, , Romans 8:28]
+____
+We know that all things work together for good, to them that love God.
+____
 
 On this blessed word, the soul, in every trial, should calmly lay itself down to rest;
 and on it, if it be indeed taught of God, it cannot _but_ rest.
@@ -8779,8 +9193,10 @@ Truly, such have "`a song as in the night, when a holy solemnity is kept!`"
 
 === CCCL
 
-[.blurb]
-=== Study to be quiet. 1 Thess. 4:11
+[quote.scripture, , 1 Thess. 4:11]
+____
+Study to be quiet.
+____
 
 This is an inestimable lesson to learn; and one that we can never study too long,
 or too deeply.
@@ -8806,8 +9222,10 @@ whilst I study to be quiet according to _thy_ will.
 
 === CCCLI
 
-[.blurb]
-=== Commit thy works unto the Lord; and thy thoughts shall be established. Proverbs 16:3
+[quote.scripture, , Proverbs 16:3]
+____
+Commit thy works unto the Lord; and thy thoughts shall be established.
+____
 
 Whoever sets himself for the space of a quarter of an hour,
 to the task of observing the motions of his own mind,
@@ -8825,8 +9243,12 @@ that we should clearly _perceive_ what law rules in our interior nature.
 
 === CCCLII
 
-[.blurb]
-=== When thou prayest, enter into thy closet; and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret, shall reward thee openly. Matthew 6:6
+[quote.scripture, , Matthew 6:6]
+____
+When thou prayest, enter into thy closet; and when thou hast shut thy door,
+pray to thy Father which is in secret; and thy Father which seeth in secret,
+shall reward thee openly.
+____
 
 It is cowardly to shrink from testifying that we are on the Lord`'s side when
 occasions distinctly call upon us for the manifestations of our religious principles;
@@ -8853,8 +9275,13 @@ the purest and the best.
 
 === CCCLIII
 
-[.blurb]
-=== Then shalt thou say in thine heart, who hath begotten me these, seeing I have lost my children, and am desolate; a captive and removing to and fro? And who hath brought up these? Behold I was left alone; these, where had they been? Isaiah 49:21
+[quote.scripture, , Isaiah 49:21]
+____
+Then shalt thou say in thine heart, who hath begotten me these,
+seeing I have lost my children, and am desolate; a captive and removing to and fro?
+And who hath brought up these?
+Behold I was left alone; these, where had they been?
+____
 
 It has been credibly related in more than one instance,
 that persons who have been rescued from drowning,
@@ -8877,8 +9304,11 @@ They had been with God, dear soul, their owner.
 
 === CCCLIV
 
-[.blurb]
-=== The sacrifices of God are a broken spirit; a broken and a contrite heart, O God, thou wilt not despise. Psalm 51:17
+[quote.scripture, , Psalm 51:17]
+____
+The sacrifices of God are a broken spirit; a broken and a contrite heart, O God,
+thou wilt not despise.
+____
 
 While there is any tenderness left in the heart,
 there is something in the worst of sinners for the nature of God to unite with.
@@ -8901,8 +9331,10 @@ weeping for sin, is the first work that God calls for at its hands.
 
 === CCCLV
 
-[.blurb]
-=== Stand in awe, and sin not; commune with your own heart upon your bed, and be still. Psalm 4:4
+[quote.scripture, , Psalm 4:4]
+____
+Stand in awe, and sin not; commune with your own heart upon your bed, and be still.
+____
 
 It is quite essential to happiness that we should
 be sensible of a stand-point within our minds;
@@ -8922,8 +9354,11 @@ These are the sacrifices of righteousness; which, having sincerely offered up,
 
 === CCCLVI
 
-[.blurb]
-=== Lead me in thy truth, and teach me, for thou art the God of my salvation, on thee do I wait all the day. Psalm 25:5
+[quote.scripture, , Psalm 25:5]
+____
+Lead me in thy truth, and teach me, for thou art the God of my salvation,
+on thee do I wait all the day.
+____
 
 To wait upon the Lord is a very different thing from what many persons take it to be.
 It is not, as is commonly supposed,
@@ -8942,8 +9377,10 @@ without discovering the potency it possesses in assisting to reveal Truth.
 
 === CCCLVII
 
-[.blurb]
-=== This God is our God, forever and ever; he shall be our Guide even unto death. Psalm 48:14
+[quote.scripture, , Psalm 48:14]
+____
+This God is our God, forever and ever; he shall be our Guide even unto death.
+____
 
 No creature is so truly helpless as man,
 though standing at the head of the visible creation.
@@ -8963,8 +9400,11 @@ forever and ever; he shall be my Guide even unto death.`"
 
 === CCCLVIII
 
-[.blurb]
-=== I am feeble and sore broken: I have roared by reason of the disquietude of my heart. Lord, all my desire is before thee; and my groaning is not hid from thee. Psalm 38:8-9
+[quote.scripture, , Psalm 38:8-9]
+____
+I am feeble and sore broken: I have roared by reason of the disquietude of my heart.
+Lord, all my desire is before thee; and my groaning is not hid from thee.
+____
 
 If the veil could be lifted which hides the sorrows under
 which many human hearts are unsuspectedly suffering,
@@ -8983,8 +9423,11 @@ but some gleam of hope and comfort will visit the heart that gives utterance to 
 
 === CCCLIX
 
-[.blurb]
-=== Oh that men would praise the Lord for his goodness, and for his wonderful works to the children of men. Psalm 107:8
+[quote.scripture, , Psalm 107:8]
+____
+Oh that men would praise the Lord for his goodness,
+and for his wonderful works to the children of men.
+____
 
 Want of faith, a heart wedded to the world, a hard,
 proud disdain of being considered superstitious or fanatical, these, and such as these,
@@ -9007,8 +9450,12 @@ before we are in a condition to use appropriately the language of thanksgiving.
 
 === CCCLX
 
-[.blurb]
-=== Be not deceived; God is not mocked; for whatsoever a man soweth, that shall he reap. For he that soweth to his flesh, shall of the flesh reap corruption; but he that soweth to the Spirit, shall of the Spirit reap life everlasting. Galatians 6:7-8
+[quote.scripture, , Galatians 6:7-8]
+____
+Be not deceived; God is not mocked; for whatsoever a man soweth, that shall he reap.
+For he that soweth to his flesh, shall of the flesh reap corruption;
+but he that soweth to the Spirit, shall of the Spirit reap life everlasting.
+____
 
 It is a striking testimony to the carnal mind as being "`enmity against God,`" that,
 whilst every species of knowledge,
@@ -9030,8 +9477,10 @@ Yes, this is an axiom as sure in morals as any of the truths of mathematics.
 
 === CCCLXI
 
-[.blurb]
-=== Deliver my soul from the sword; my darling from the power of the dog. Psalm 22:20
+[quote.scripture, , Psalm 22:20]
+____
+Deliver my soul from the sword; my darling from the power of the dog.
+____
 
 When, by obedience and faith, the believer has made some progress in the divine life,
 he experiences a sensibility to its sweetness and value,
@@ -9053,8 +9502,10 @@ deliver my darling from the power of the dog.`"
 
 === CCCLXII
 
-[.blurb]
-=== The way of the Lord is strength to the upright. Proverbs 10:29
+[quote.scripture, , Proverbs 10:29]
+____
+The way of the Lord is strength to the upright.
+____
 
 The way of the Lord is to be perceived in that interior
 sense of truth which enlightens the conscience;
@@ -9081,8 +9532,11 @@ and gives thee strength in giving thee uprightness of heart.
 
 === CCCLXIII
 
-[.blurb]
-=== Therefore, my brethren, dearly beloved and longed for, my joy and crown, so stand fast in the Lord, my dearly beloved. Philippians 4:1
+[quote.scripture, , Philippians 4:1]
+____
+Therefore, my brethren, dearly beloved and longed for, my joy and crown,
+so stand fast in the Lord, my dearly beloved.
+____
 
 What gushing tenderness of heart is here!
 How the deep earnestness of a love which is of God breaks forth in every word!
@@ -9107,8 +9561,10 @@ Amen.
 
 === CCCLXIV
 
-[.blurb]
-=== For the Lord taketh pleasure in his people; he will beautify the meek with salvation. Psalm 149:4
+[quote.scripture, , Psalm 149:4]
+____
+For the Lord taketh pleasure in his people; he will beautify the meek with salvation.
+____
 
 This is the view of religion which cheers and refreshes,
 and which gives an impetus to the life of God in the soul of man.
@@ -9134,8 +9590,10 @@ as with an ornament, and bind them on thee as a bride doth.`"
 
 === CCCLXV
 
-[.blurb]
-=== Love worketh no ill to his neighbour; therefore love is the fulfilling of the law. Romans 13:10
+[quote.scripture, , Romans 13:10]
+____
+Love worketh no ill to his neighbour; therefore love is the fulfilling of the law.
+____
 
 Wherever there is love, there is truth.
 True beauty, true joy, true peace, true patience, true forbearance, and compassion,
@@ -9156,8 +9614,11 @@ they shall be made as white as wool.`"
 
 === CCCLXVI
 
-[.blurb]
-=== We will bless the Lord, from this time forth, and forevermore. Praise the Lord! Psalm 115:18
+[quote.scripture, , Psalm 115:18]
+____
+We will bless the Lord, from this time forth, and forevermore.
+Praise the Lord!
+____
 
 Forever be it so!
 Thanksgiving is the noblest exercise of the soul.
